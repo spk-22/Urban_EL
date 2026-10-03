@@ -1,0 +1,34 @@
+{
+  "D1_power_to_water": {
+    "n_dependencies": 3,
+    "threshold_m": 500.0,
+    "parameter_type": "ASSUMED",
+    "uncertainty": "Real electrical feeder routing unavailable in OSM. Threshold is a spatial proximity proxy."
+  },
+  "D2_power_to_road": {
+    "n_dependencies": 0,
+    "threshold_m": 300.0,
+    "alpha_pr_central": 0.3,
+    "alpha_pr_range": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5
+    ],
+    "parameter_type": "INFERRED",
+    "uncertainty": "Signal-feeder routing unavailable. alpha_pr inferred from HCM principles; not a measured fact."
+  },
+  "D3_water_to_road": {
+    "n_dependencies": 419,
+    "buffer_m": 25.0,
+    "alpha_wr_central": 0.4,
+    "alpha_wr_range": [
+      0.2,
+      0.4,
+      0.6
+    ],
+    "parameter_type": "ASSUMED",
+    "uncertainty": "Pipe diameters/pressures unavailable in OSM. Buffer and capacity factor are assumptions."
+  }
+}

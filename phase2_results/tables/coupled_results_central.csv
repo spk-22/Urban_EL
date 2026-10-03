@@ -1,0 +1,8 @@
+scenario,description,initial_power_fail,initial_water_fail,initial_road_fail,s_pw,s_pr,alpha_pr,alpha_wr,outer_iterations,system_stable,power_failed_nodes,power_failed_substations,water_failed_facilities,water_failed_pipes,water_unmet_demand_mld,water_deprived_junctions,road_failed_edges,road_disruption_ratio,road_delay_factor,total_dep_events,d1_events,d2_events,d3_events
+S1_Power_D1_Banaswadi,D1 Targeted: Substation SUB_25 (51m from BWSSB Water Tank FAC_36),['SUB_25'],[],[],0.5,0.5,0.3,0.4,2,True,1,1,0,0,16814.00000000032,33868,0,0.0,1.0,1,1,0,0
+S2_Power_D1_Padmanabha,D1 Targeted: Substation SUB_19 (333m from Water Facility FAC_31),['SUB_19'],[],[],0.5,0.5,0.3,0.4,2,True,1,1,0,0,16814.00000000032,33868,0,0.0,1.0,1,1,0,0
+S3_Power_Uncoupled,"Uncoupled Control: Substation SUB_1 (220kV Hub, no water facility in 500m)",['SUB_1'],[],[],0.5,0.5,0.3,0.4,2,True,1,1,0,0,16814.00000000032,33868,0,0.0,1.0,0,0,0,0
+S4_Water_D3_SilkBoard,D3 Targeted: Transmission Main Burst near Silk Board Road corridor,[],"[('WJ_10506', 'WJ_10509')]",[],0.5,0.5,0.3,0.4,3,True,0,0,0,1,16814.00000000032,33868,1039,0.24168411258432193,1.0483774903758194,14,0,0,14
+S5_Water_Facility_Regional,Regional Facility: Major Water Works (240 MLD Supply Loss),[],['FAC_1'],[],0.5,0.5,0.3,0.4,2,True,0,0,1,1,16848.00000000032,33936,0,0.0,1.0,0,0,0,0
+S6_Road_Bottleneck,Road Bottleneck: Peak-flow Corridor Link Closure,[],[],"[('CRN_1', 'CRN_2')]",0.5,0.5,0.3,0.4,2,True,0,0,0,0,16814.00000000032,33868,1,0.00023261223540358222,1.0002001323646892,0,0,0,0
+S7_Compound_PowerWater,Compound Event: Concurrent Substation SUB_25 + Water Pipe Burst,['SUB_25'],"[('WJ_10506', 'WJ_10509')]",[],0.5,0.5,0.3,0.4,3,True,1,1,0,1,16814.00000000032,33868,1039,0.24168411258432193,1.0483774903758194,15,1,0,14

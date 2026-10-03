@@ -1,0 +1,3291 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-04-25T03:25:45Z" areas="2026-04-24T19:21:39Z"/>
+
+  <node id="1470856116" lat="12.9362606" lon="77.6237622">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="1525993646" lat="13.0119654" lon="77.5752904">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="2398083171" lat="12.8988404" lon="77.6214406">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="2398083172" lat="12.8998321" lon="77.6202030">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="2449069717" lat="12.8928529" lon="77.6133610">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="4609658408" lat="12.9414316" lon="77.6945339">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="7228221971" lat="13.0955480" lon="77.5948785">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="7236242037" lat="12.8866386" lon="77.5622186">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="12713751003" lat="12.9813158" lon="77.6454392">
+    <tag k="building" v="commercial"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+  </node>
+  <way id="24488576">
+    <nd ref="10047988945"/>
+    <nd ref="10047988946"/>
+    <nd ref="266267463"/>
+    <nd ref="1510942763"/>
+    <nd ref="1510942761"/>
+    <nd ref="266267465"/>
+    <nd ref="10047988945"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="HSR Layout Substation"/>
+    <tag k="name:kn" v="ಕರ್ನಾಟಕ ವಿದ್ಯುತ್ ಪ್ರಸರಣ ನಿಗಮ ನಿಯಮಿತ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="400 MVA"/>
+    <tag k="ref" v="1201001CE"/>
+    <tag k="start_date" v="1998-01-26"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="32259052">
+    <nd ref="362383165"/>
+    <nd ref="11304473519"/>
+    <nd ref="11304473520"/>
+    <nd ref="362383167"/>
+    <nd ref="362380402"/>
+    <nd ref="362380400"/>
+    <nd ref="362380398"/>
+    <nd ref="362383165"/>
+    <tag k="name" v="BESCOM Office"/>
+    <tag k="name:kn" v="ಬೆಂಗಳೂರು ನೀರು ಸರಬರಾಜು ಮತ್ತು ಒಳಚರಂಡಿ ಮಂಡಳಿ"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="40151508">
+    <nd ref="483411139"/>
+    <nd ref="10023940316"/>
+    <nd ref="483411140"/>
+    <nd ref="11887013665"/>
+    <nd ref="483411133"/>
+    <nd ref="10047988948"/>
+    <nd ref="483411139"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Peenya Substation"/>
+    <tag k="name:kn" v="ಪೀಣ್ಯ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="450 MVA"/>
+    <tag k="ref" v="1104001CE"/>
+    <tag k="start_date" v="1965-01-25"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="46837620">
+    <nd ref="443726393"/>
+    <nd ref="443726394"/>
+    <nd ref="443726395"/>
+    <nd ref="2836933361"/>
+    <nd ref="598220495"/>
+    <nd ref="598220496"/>
+    <nd ref="443726393"/>
+    <tag k="name" v="Gokula"/>
+    <tag k="name:kn" v="ಗೋಕುಲ"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="46918829">
+    <nd ref="598947933"/>
+    <nd ref="598947932"/>
+    <nd ref="598947934"/>
+    <nd ref="2845939113"/>
+    <nd ref="598947935"/>
+    <nd ref="598947933"/>
+    <tag k="name" v="Mattikere"/>
+    <tag k="name:kn" v="ಮತ್ತಿಕೆರೆ"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="126705930">
+    <nd ref="1403889447"/>
+    <nd ref="1403889435"/>
+    <nd ref="1403889436"/>
+    <nd ref="1403889434"/>
+    <nd ref="1403889426"/>
+    <nd ref="1403889427"/>
+    <nd ref="1403889421"/>
+    <nd ref="1403889418"/>
+    <nd ref="1403889417"/>
+    <nd ref="1403889416"/>
+    <nd ref="1403889413"/>
+    <nd ref="1403889419"/>
+    <nd ref="12453246982"/>
+    <nd ref="1403889423"/>
+    <nd ref="2835792693"/>
+    <nd ref="1403889430"/>
+    <nd ref="1403889429"/>
+    <nd ref="2835792700"/>
+    <nd ref="2835793401"/>
+    <nd ref="2835793402"/>
+    <nd ref="2835793403"/>
+    <nd ref="2835793406"/>
+    <nd ref="2835793409"/>
+    <nd ref="1403889437"/>
+    <nd ref="1403889438"/>
+    <nd ref="1403889447"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="frequency" v="50"/>
+    <tag k="gas_insulated" v="no"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Hoodi Substation"/>
+    <tag k="name:kn" v="ಹೂಡಿ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="1500 MVA"/>
+    <tag k="ref" v="1202002BC"/>
+    <tag k="start_date" v="1995-03-31"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="400000;220000;66000"/>
+  </way>
+  <way id="130871139">
+    <nd ref="1440356378"/>
+    <nd ref="1440356384"/>
+    <nd ref="1440356369"/>
+    <nd ref="11703743430"/>
+    <nd ref="1440356365"/>
+    <nd ref="1440356378"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Adugodi Substation"/>
+    <tag k="name:kn" v="ಕರ್ನಾಟಕ ವಿದ್ಯುತ್ ಪ್ರಸರಣ ನಿಗಮ ನಿಯಮಿತ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="60 MVA"/>
+    <tag k="ref" v="1201011EF"/>
+    <tag k="start_date" v="1964-08-19"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="133122825">
+    <nd ref="1464771644"/>
+    <nd ref="1464771640"/>
+    <nd ref="1464771643"/>
+    <nd ref="1464771641"/>
+    <nd ref="1464771642"/>
+    <nd ref="1464771644"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="RMV Layout"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </way>
+  <way id="145096012">
+    <nd ref="1585466573"/>
+    <nd ref="1585466543"/>
+    <nd ref="1584707875"/>
+    <nd ref="1584707760"/>
+    <nd ref="1584708115"/>
+    <nd ref="1585466573"/>
+    <tag k="barrier" v="wall"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="164140319">
+    <nd ref="1758059729"/>
+    <nd ref="1758059764"/>
+    <nd ref="1758059740"/>
+    <nd ref="1758059726"/>
+    <nd ref="1758059729"/>
+    <tag k="name" v="BESCOM Electrical Substation"/>
+    <tag k="name:kn" v="ಬೆಂಗಳೂರು ವಿದ್ಯುತ್ ಸರಬರಾಜು ಕಂಪೆನಿ"/>
+    <tag k="operator" v="BESCOM"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="165506509">
+    <nd ref="6527314791"/>
+    <nd ref="10046913349"/>
+    <nd ref="13367794617"/>
+    <nd ref="3740962159"/>
+    <nd ref="1770459057"/>
+    <nd ref="6527314791"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="East Division Compound"/>
+    <tag k="name:kn" v="ವಿಶ್ವೇಶ್ವರಯ್ಯ"/>
+    <tag k="official_name" v="Vishweshwaraiah Substation"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="63 MVA"/>
+    <tag k="ref" v="1101001EF"/>
+    <tag k="start_date" v="2010-12-20"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="166612988">
+    <nd ref="1780495233"/>
+    <nd ref="1780495244"/>
+    <nd ref="1780495228"/>
+    <nd ref="1780495215"/>
+    <nd ref="1780495233"/>
+    <tag k="operator" v="BESCOM"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="172899327">
+    <nd ref="1837395791"/>
+    <nd ref="12102942781"/>
+    <nd ref="1837395804"/>
+    <nd ref="1837395778"/>
+    <nd ref="1837395763"/>
+    <nd ref="1837395791"/>
+    <tag k="frequency" v="50"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="BMTC Substation"/>
+    <tag k="name:kn" v="ಬೆಂ.ಮ.ಸಾ.ಸಂ."/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </way>
+  <way id="172899342">
+    <nd ref="10047988941"/>
+    <nd ref="1837395700"/>
+    <nd ref="1837395698"/>
+    <nd ref="1837395696"/>
+    <nd ref="10047988942"/>
+    <nd ref="10047988941"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="NIMHANS Substation"/>
+    <tag k="name:kn" v="ನಿಹ್ಮಾನ್ಸ್"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="300 MVA"/>
+    <tag k="ref" v="1201003CE"/>
+    <tag k="start_date" v="2012-02-26"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="181466418">
+    <nd ref="1918868248"/>
+    <nd ref="1918868166"/>
+    <nd ref="1918868241"/>
+    <nd ref="1918868123"/>
+    <nd ref="4159754057"/>
+    <nd ref="1918868248"/>
+    <tag k="addr:plot" v="132B"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="EPIP Whitefield Substation"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="300 MVA"/>
+    <tag k="ref" v="1101002CE"/>
+    <tag k="start_date" v="2014-01-10"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="199023835">
+    <nd ref="2090832459"/>
+    <nd ref="11217131521"/>
+    <nd ref="2090832463"/>
+    <nd ref="2090832461"/>
+    <nd ref="10045512750"/>
+    <nd ref="2090832460"/>
+    <nd ref="2090832466"/>
+    <nd ref="2090832462"/>
+    <nd ref="11811680980"/>
+    <nd ref="11811680979"/>
+    <nd ref="11811680978"/>
+    <nd ref="11811680977"/>
+    <nd ref="11811680981"/>
+    <nd ref="11811680976"/>
+    <nd ref="11811680975"/>
+    <nd ref="11811680974"/>
+    <nd ref="2090832459"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Nandhini Layout Substation"/>
+    <tag k="name:kn" v="ನಂದಿನಿ ಬಡಾವಣೆ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="51.5 MVA"/>
+    <tag k="ref" v="1104012EF"/>
+    <tag k="start_date" v="1990-06-08"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="217566888">
+    <nd ref="2268525522"/>
+    <nd ref="2268525534"/>
+    <nd ref="6536382397"/>
+    <nd ref="4308356539"/>
+    <nd ref="4308356537"/>
+    <nd ref="2268525522"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Golf Links Substation"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="63 MVA"/>
+    <tag k="ref" v="1202020EF"/>
+    <tag k="start_date" v="2009-03-31"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="279368511">
+    <nd ref="2835793404"/>
+    <nd ref="2835793407"/>
+    <nd ref="13347450021"/>
+    <nd ref="2835793412"/>
+    <nd ref="2835793410"/>
+    <nd ref="2835793404"/>
+    <tag k="name" v="Hoody Traction"/>
+    <tag k="operator" v="South Western Railway"/>
+    <tag k="operator:short" v="SWR"/>
+    <tag k="operator:wikidata" v="Q3595518"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="traction"/>
+    <tag k="voltage" v="220000"/>
+  </way>
+  <way id="279393116">
+    <nd ref="2836009574"/>
+    <nd ref="2836009573"/>
+    <nd ref="2836009571"/>
+    <nd ref="2836009572"/>
+    <nd ref="2836009574"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="279393134">
+    <nd ref="2836009496"/>
+    <nd ref="2836009494"/>
+    <nd ref="2836009493"/>
+    <nd ref="2836009495"/>
+    <nd ref="2836009499"/>
+    <nd ref="2836009500"/>
+    <nd ref="2836009498"/>
+    <nd ref="2836009496"/>
+    <tag k="name" v="Kengeri S Town"/>
+    <tag k="name:kn" v="ದಕ್ಷಿಣ ಕೆಂಗೇರಿ"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="279472176">
+    <nd ref="2836933118"/>
+    <nd ref="2836933113"/>
+    <nd ref="2836933115"/>
+    <nd ref="2836933122"/>
+    <nd ref="2836933118"/>
+    <tag k="name" v="Bagmane WTC"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="279472187">
+    <nd ref="2836932666"/>
+    <nd ref="2836932668"/>
+    <nd ref="2836932670"/>
+    <nd ref="2836932672"/>
+    <nd ref="2836932669"/>
+    <nd ref="2836932666"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="ISRO Layout Substation"/>
+    <tag k="name:kn" v="ಭಾರತೀಯ ಬಾಹ್ಯಾಕಾಶ ಸಂಶೋಧನೆ ಸಂಸ್ಥೆ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="40 MVA"/>
+    <tag k="ref" v="1204018EF"/>
+    <tag k="start_date" v="2007-01-01"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="279472191">
+    <nd ref="10047988943"/>
+    <nd ref="2836932342"/>
+    <nd ref="3868712300"/>
+    <nd ref="2836932340"/>
+    <nd ref="3868729239"/>
+    <nd ref="2836932341"/>
+    <nd ref="3868729207"/>
+    <nd ref="10047988944"/>
+    <nd ref="10047988943"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Naganathapura Substation"/>
+    <tag k="name:kn" v="ನಾಗನಾಥಪುರ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="71.5 MVA"/>
+    <tag k="ref" v="1201002EF"/>
+    <tag k="start_date" v="1999-10-30"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="279472193">
+    <nd ref="2836932642"/>
+    <nd ref="2836932659"/>
+    <nd ref="2836932657"/>
+    <nd ref="2836932653"/>
+    <nd ref="2836932650"/>
+    <nd ref="2836932649"/>
+    <nd ref="2836932648"/>
+    <nd ref="2836932637"/>
+    <nd ref="2836932638"/>
+    <nd ref="2836932641"/>
+    <nd ref="2836932640"/>
+    <nd ref="2836932642"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Subramanyapura Substation"/>
+    <tag k="name:kn" v="ಸುಬ್ರಮಣ್ಯಪುರ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="40MVA"/>
+    <tag k="ref" v="1204001EF"/>
+    <tag k="start_date" v="1970-04-30"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="279472194">
+    <nd ref="2836932630"/>
+    <nd ref="2836932629"/>
+    <nd ref="2836932636"/>
+    <nd ref="2836932637"/>
+    <nd ref="2836932638"/>
+    <nd ref="2836932641"/>
+    <nd ref="2836932640"/>
+    <nd ref="2836932642"/>
+    <nd ref="2836932643"/>
+    <nd ref="2836932635"/>
+    <nd ref="2836932634"/>
+    <nd ref="2836932632"/>
+    <nd ref="2836932630"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Subramanyapura Substation"/>
+    <tag k="name:kn" v="ಸುಬ್ರಮಣ್ಯಪುರ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="400 MVA"/>
+    <tag k="ref" v="1204001CE"/>
+    <tag k="start_date" v="1986-10-02"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="279472205">
+    <nd ref="10047283925"/>
+    <nd ref="10047283926"/>
+    <nd ref="2836932784"/>
+    <nd ref="2836932786"/>
+    <nd ref="2836932791"/>
+    <nd ref="7176651725"/>
+    <nd ref="2836932788"/>
+    <nd ref="10047283925"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Vrishabavathi Valley"/>
+    <tag k="name:kn" v="ವೃಷಭಾವತಿ ಕಣಿವೆ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="63 MVA"/>
+    <tag k="ref" v="1103003EF"/>
+    <tag k="start_date" v="2009-03-04"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="279472254">
+    <nd ref="2836933373"/>
+    <nd ref="2836933378"/>
+    <nd ref="2836933375"/>
+    <nd ref="7385476312"/>
+    <nd ref="2836933372"/>
+    <nd ref="2836933373"/>
+    <tag k="name" v="Manyata"/>
+    <tag k="name:kn" v="ಮಾನ್ಯತ"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="279472255">
+    <nd ref="11651671185"/>
+    <nd ref="11651671186"/>
+    <nd ref="11651671187"/>
+    <nd ref="11651671188"/>
+    <nd ref="11651671189"/>
+    <nd ref="11651671190"/>
+    <nd ref="11651671185"/>
+    <nd ref="2836933549"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Puttenahalli Substation"/>
+    <tag k="name:kn" v="ಪುಟ್ಟೇನಹಳ್ಳಿ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="63 MVA"/>
+    <tag k="ref" v="1102002EF"/>
+    <tag k="start_date" v="2015-12-28"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="279472267">
+    <nd ref="2836933161"/>
+    <nd ref="2836933159"/>
+    <nd ref="2836933154"/>
+    <nd ref="2836933156"/>
+    <nd ref="2836933160"/>
+    <nd ref="2836933161"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="279472276">
+    <nd ref="2836933301"/>
+    <nd ref="2836933309"/>
+    <nd ref="2836933306"/>
+    <nd ref="10089752409"/>
+    <nd ref="2836933297"/>
+    <nd ref="2836933300"/>
+    <nd ref="12827726048"/>
+    <nd ref="2836933301"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="LR Bande Substation"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="51.5 MVA"/>
+    <tag k="ref" v="1102016EF"/>
+    <tag k="start_date" v="2003-07-25"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="279472296">
+    <nd ref="2836933546"/>
+    <nd ref="2836933550"/>
+    <nd ref="6274088859"/>
+    <nd ref="6274088858"/>
+    <nd ref="2836933533"/>
+    <nd ref="2836933532"/>
+    <nd ref="2836933534"/>
+    <nd ref="2836933537"/>
+    <nd ref="2836933538"/>
+    <nd ref="2836933540"/>
+    <nd ref="2836933539"/>
+    <nd ref="2836933546"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Puttenahalli Substation"/>
+    <tag k="name:kn" v="ಪುಟ್ಟೇನಹಳ್ಳಿ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="300 MVA"/>
+    <tag k="ref" v="1102002CE"/>
+    <tag k="start_date" v="2015-12-28"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="280482830">
+    <nd ref="2845939038"/>
+    <nd ref="2845939037"/>
+    <nd ref="2845939040"/>
+    <nd ref="2845939041"/>
+    <nd ref="2845939045"/>
+    <nd ref="2845939044"/>
+    <nd ref="2845939050"/>
+    <nd ref="2845939051"/>
+    <nd ref="2845939053"/>
+    <nd ref="2845939056"/>
+    <nd ref="2845939048"/>
+    <nd ref="2845939046"/>
+    <nd ref="2845939038"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Hebbal Substation"/>
+    <tag k="name:kn" v="ಹೆಬ್ಬಾಳು"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="200 MVA"/>
+    <tag k="ref" v="1102001CE"/>
+    <tag k="start_date" v="1994-07-02"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="280482853">
+    <nd ref="2845939233"/>
+    <nd ref="2845939230"/>
+    <nd ref="2845939232"/>
+    <nd ref="2845939235"/>
+    <nd ref="2845939233"/>
+    <tag k="name" v="HMT"/>
+    <tag k="name:kn" v="ಎಚ್‌ಎಂಟಿ"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="280482854">
+    <nd ref="2845939202"/>
+    <nd ref="2845939201"/>
+    <nd ref="2845939206"/>
+    <nd ref="2845939207"/>
+    <nd ref="2845939202"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="280482858">
+    <nd ref="2108242645"/>
+    <nd ref="2108242641"/>
+    <nd ref="2845939325"/>
+    <nd ref="2845939329"/>
+    <nd ref="2108242645"/>
+    <tag k="name" v="Sahakar Nagara"/>
+    <tag k="name:kn" v="ಸಹಕಾರನಗರ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="280482861">
+    <nd ref="599229283"/>
+    <nd ref="2845939006"/>
+    <nd ref="2845939001"/>
+    <nd ref="12985049236"/>
+    <nd ref="2845939003"/>
+    <nd ref="2845939005"/>
+    <nd ref="599229283"/>
+    <tag k="name" v="CPRI"/>
+    <tag k="name:kn" v="ಕೇಂದ್ರೀಯ ವಿದ್ಯುತ್"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="220000"/>
+  </way>
+  <way id="280482880">
+    <nd ref="2845939398"/>
+    <nd ref="2845939396"/>
+    <nd ref="2845939391"/>
+    <nd ref="2845939387"/>
+    <nd ref="2845939381"/>
+    <nd ref="2845939378"/>
+    <nd ref="2845939370"/>
+    <nd ref="2845939372"/>
+    <nd ref="2845939390"/>
+    <nd ref="2845939398"/>
+    <tag k="name" v="Abbigere"/>
+    <tag k="name:kn" v="ಅಬ್ಬಿಗೆರೆ"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="311372095">
+    <nd ref="3170092761"/>
+    <nd ref="3170092762"/>
+    <nd ref="3170092763"/>
+    <nd ref="3170092764"/>
+    <nd ref="1366867074"/>
+    <nd ref="3170092761"/>
+    <tag k="name" v="Electric Sub-Station"/>
+    <tag k="operator" v="BESCOM"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="316686955">
+    <nd ref="3228440092"/>
+    <nd ref="3228440091"/>
+    <nd ref="11279910954"/>
+    <nd ref="3228440090"/>
+    <nd ref="3228440089"/>
+    <nd ref="3228440086"/>
+    <nd ref="3228440087"/>
+    <nd ref="3228440088"/>
+    <nd ref="3228440092"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="A Station"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000"/>
+  </way>
+  <way id="316689602">
+    <nd ref="3228461833"/>
+    <nd ref="3228461832"/>
+    <nd ref="3228461834"/>
+    <nd ref="3228461830"/>
+    <nd ref="3228461826"/>
+    <nd ref="11048990951"/>
+    <nd ref="3228461825"/>
+    <nd ref="11048990952"/>
+    <nd ref="11048965404"/>
+    <nd ref="3228461835"/>
+    <nd ref="3228461837"/>
+    <nd ref="3228461833"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="316689603">
+    <nd ref="3228461829"/>
+    <nd ref="3228461820"/>
+    <nd ref="3228461822"/>
+    <nd ref="3228461823"/>
+    <nd ref="3228461827"/>
+    <nd ref="3228461828"/>
+    <nd ref="3228461824"/>
+    <nd ref="3228461831"/>
+    <nd ref="3228461829"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="name" v="Wellcast Steel"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="344193934">
+    <nd ref="3509476246"/>
+    <nd ref="3509476247"/>
+    <nd ref="3509476248"/>
+    <nd ref="3509476249"/>
+    <nd ref="3509476246"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Padmanabha Nagar Substation"/>
+    <tag k="name:kn" v="ಕರ್ನಾಟಕ ವಿದ್ಯುತ್ ಪ್ರಸರಣ ನಿಗಮ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="51.5 MVA"/>
+    <tag k="ref" v="1204017EF"/>
+    <tag k="start_date" v="2004-02-26"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="345847177">
+    <nd ref="3524937760"/>
+    <nd ref="3524937755"/>
+    <nd ref="3524937756"/>
+    <nd ref="3524937762"/>
+    <nd ref="3524937760"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="346422550">
+    <nd ref="3529615986"/>
+    <nd ref="3529615991"/>
+    <nd ref="3529616000"/>
+    <nd ref="3529616006"/>
+    <nd ref="3529615943"/>
+    <nd ref="3529615941"/>
+    <nd ref="3529615945"/>
+    <nd ref="3529615942"/>
+    <nd ref="3529615986"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="346444901">
+    <nd ref="3529757292"/>
+    <nd ref="3529757278"/>
+    <nd ref="7256967083"/>
+    <nd ref="3529757218"/>
+    <nd ref="3529757269"/>
+    <nd ref="7256967082"/>
+    <nd ref="3529757292"/>
+    <tag k="fixme" v="power line connections to be added"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="HBR Layout"/>
+    <tag k="name:kn" v="ಹೆಣ್ಣೂರು ಬಳ್ಳಾರಿ ರಸ್ತೆ ಲೇಔಟ್"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="60 MVA"/>
+    <tag k="ref" v="1102019EF"/>
+    <tag k="start_date" v="2007-01-31"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000;66000;11000"/>
+  </way>
+  <way id="347175676">
+    <nd ref="3535631990"/>
+    <nd ref="3535631722"/>
+    <nd ref="3535631718"/>
+    <nd ref="3535631973"/>
+    <nd ref="3535631990"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="347417977">
+    <nd ref="3537416302"/>
+    <nd ref="3537416091"/>
+    <nd ref="3537416085"/>
+    <nd ref="3537416089"/>
+    <nd ref="3537416302"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="KPTCL Ramanagara Circle"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="347541531">
+    <nd ref="3538121125"/>
+    <nd ref="3298494106"/>
+    <nd ref="3538120750"/>
+    <nd ref="13275766843"/>
+    <nd ref="3538120974"/>
+    <nd ref="3538121125"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="363617608">
+    <nd ref="13271647398"/>
+    <nd ref="12954010134"/>
+    <nd ref="13271650012"/>
+    <nd ref="3677872064"/>
+    <nd ref="3677872066"/>
+    <nd ref="3677872070"/>
+    <nd ref="3677872072"/>
+    <nd ref="3677872074"/>
+    <nd ref="3677872073"/>
+    <nd ref="13271647397"/>
+    <nd ref="13271647398"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="369295547">
+    <nd ref="3730964431"/>
+    <nd ref="3730964432"/>
+    <nd ref="3730964426"/>
+    <nd ref="3730964425"/>
+    <nd ref="3730964431"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="B Station"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="start_date" v="1905"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </way>
+  <way id="386182103">
+    <nd ref="3895109688"/>
+    <nd ref="3895109687"/>
+    <nd ref="3895109684"/>
+    <nd ref="3895109685"/>
+    <nd ref="3895109688"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="386182129">
+    <nd ref="3895109797"/>
+    <nd ref="3895109798"/>
+    <nd ref="3895109793"/>
+    <nd ref="3895109792"/>
+    <nd ref="3895109796"/>
+    <nd ref="3895109797"/>
+    <tag k="name" v="Federal Moghul"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="386182130">
+    <nd ref="3895109818"/>
+    <nd ref="3895109814"/>
+    <nd ref="3895109813"/>
+    <nd ref="10739658453"/>
+    <nd ref="3895109817"/>
+    <nd ref="3895109818"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="KHB Yelahanka"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="40 MVA"/>
+    <tag k="ref" v="1102015EF"/>
+    <tag k="start_date" v="2002-12-30"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="386182132">
+    <nd ref="3895109808"/>
+    <nd ref="3895109805"/>
+    <nd ref="3895109806"/>
+    <nd ref="3895109809"/>
+    <nd ref="3895109808"/>
+    <tag k="name" v="Wheel &amp; Axle"/>
+    <tag k="name:kn" v="ಗಾಲಿ ಕಾರ್ಖಾನೆ"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="386182133">
+    <nd ref="3895109769"/>
+    <nd ref="3895109770"/>
+    <nd ref="3895109777"/>
+    <nd ref="3895109776"/>
+    <nd ref="3895109769"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="name" v="Yelahanka"/>
+    <tag k="name:kn" v="ಯಲಹಂಕ"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="400517920">
+    <nd ref="4030637045"/>
+    <nd ref="4030637046"/>
+    <nd ref="4030637048"/>
+    <nd ref="4030637047"/>
+    <nd ref="4030637045"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Austin Town Substation"/>
+    <tag k="name:kn" v="ಆಸ್ಟಿನ್ ರಸ್ತೆ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="60 MVA"/>
+    <tag k="ref" v="1201013EF"/>
+    <tag k="start_date" v="1995-12-02"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="400517922">
+    <nd ref="4030637035"/>
+    <nd ref="4030637032"/>
+    <nd ref="4030637033"/>
+    <nd ref="4030637037"/>
+    <nd ref="4030637036"/>
+    <nd ref="4030637035"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Koramangala Substation"/>
+    <tag k="name:kn" v="ಕೋರಮಂಗಲ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="40 MVA"/>
+    <tag k="ref" v="120104EF"/>
+    <tag k="start_date" v="1996-04-12"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="400517923">
+    <nd ref="4030637025"/>
+    <nd ref="11021314553"/>
+    <nd ref="4030637026"/>
+    <nd ref="4030637028"/>
+    <nd ref="3659863356"/>
+    <nd ref="4030637025"/>
+    <tag k="name" v="KPTCL Power substation"/>
+    <tag k="name:kn" v="ಕ.ವಿ.ಪ್ರ.ನಿ.ನಿ."/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="433843476">
+    <nd ref="4323335086"/>
+    <nd ref="4323335084"/>
+    <nd ref="4323335791"/>
+    <nd ref="4323335792"/>
+    <nd ref="4323335086"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="433843480">
+    <nd ref="4323335248"/>
+    <nd ref="4323335245"/>
+    <nd ref="4323335246"/>
+    <nd ref="4323335243"/>
+    <nd ref="4323335244"/>
+    <nd ref="4323335249"/>
+    <nd ref="4323335248"/>
+    <tag k="name" v="BEL"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="433843481">
+    <nd ref="4323335269"/>
+    <nd ref="4323335264"/>
+    <nd ref="4323335261"/>
+    <nd ref="4323335262"/>
+    <nd ref="4323335268"/>
+    <nd ref="4323335267"/>
+    <nd ref="4323335270"/>
+    <nd ref="4323335269"/>
+    <tag k="name" v="MEI Layout"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="433843482">
+    <nd ref="419641821"/>
+    <nd ref="4323335828"/>
+    <nd ref="4323335197"/>
+    <nd ref="4323335826"/>
+    <nd ref="4323335824"/>
+    <nd ref="419641821"/>
+    <tag k="name" v="Platinum City Power Station"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="433853595">
+    <nd ref="4323398653"/>
+    <nd ref="4323398652"/>
+    <nd ref="4323398656"/>
+    <nd ref="4323398657"/>
+    <nd ref="4323398653"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Chandra Layout"/>
+    <tag k="name:kn" v="ಚಂದ್ರ ಬಡಾವಣೆ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </way>
+  <way id="433853596">
+    <nd ref="4323398811"/>
+    <nd ref="10045512749"/>
+    <nd ref="7296738219"/>
+    <nd ref="7296738225"/>
+    <nd ref="4323398815"/>
+    <nd ref="4323398813"/>
+    <nd ref="4323398811"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Mahalakshmi Layout"/>
+    <tag k="name:kn" v="ಮಹಾಲಕ್ಷ್ಮಿ ಬಡಾವಣೆ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </way>
+  <way id="433853597">
+    <nd ref="4323398679"/>
+    <nd ref="4323398678"/>
+    <nd ref="4323398682"/>
+    <nd ref="4323398683"/>
+    <nd ref="4323398679"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Vijaya Nagar"/>
+    <tag k="name:kn" v="ವಿಜಯನಗರ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </way>
+  <way id="439843204">
+    <nd ref="4375213600"/>
+    <nd ref="4375213601"/>
+    <nd ref="4375213603"/>
+    <nd ref="4375213605"/>
+    <nd ref="1586537668"/>
+    <nd ref="4375213604"/>
+    <nd ref="4375213600"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="442048025">
+    <nd ref="4397421855"/>
+    <nd ref="4397421856"/>
+    <nd ref="4397421854"/>
+    <nd ref="11542884418"/>
+    <nd ref="4397421852"/>
+    <nd ref="4397421851"/>
+    <nd ref="4397421855"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Jayadeva"/>
+    <tag k="name:kn" v="ಜಯದೇವ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="456555146">
+    <nd ref="4527984234"/>
+    <nd ref="387617495"/>
+    <nd ref="4527984236"/>
+    <nd ref="4527984233"/>
+    <nd ref="4527984234"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="575162908">
+    <nd ref="5519597374"/>
+    <nd ref="5519597373"/>
+    <nd ref="5519597372"/>
+    <nd ref="5519597371"/>
+    <nd ref="5519597370"/>
+    <nd ref="5519597369"/>
+    <nd ref="5519597374"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="583879531">
+    <nd ref="10047988939"/>
+    <nd ref="10047988940"/>
+    <nd ref="5581917478"/>
+    <nd ref="5581917477"/>
+    <nd ref="5581917476"/>
+    <nd ref="13368984099"/>
+    <nd ref="13368993102"/>
+    <nd ref="13368984100"/>
+    <nd ref="5581917475"/>
+    <nd ref="13368993101"/>
+    <nd ref="10047988939"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="HAL Substation"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="63 MVA"/>
+    <tag k="ref" v="1202001EF"/>
+    <tag k="start_date" v="1967-01-01"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="591251805">
+    <nd ref="5644388860"/>
+    <nd ref="5644388861"/>
+    <nd ref="5644388862"/>
+    <nd ref="5644388863"/>
+    <nd ref="5644388860"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Banaswadi Substation"/>
+    <tag k="name:kn" v="ಬನಸ್ವಾಡಿ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="83 MVA"/>
+    <tag k="ref" v="1102013EF"/>
+    <tag k="start_date" v="1989-05-01"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="655368585">
+    <nd ref="6140443268"/>
+    <nd ref="6140443269"/>
+    <nd ref="6140443270"/>
+    <nd ref="6140443271"/>
+    <nd ref="3504281601"/>
+    <nd ref="6140443268"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="669945295">
+    <nd ref="6274088857"/>
+    <nd ref="6274088856"/>
+    <nd ref="6274088855"/>
+    <nd ref="6274088854"/>
+    <nd ref="6274088857"/>
+    <tag k="name" v="Yelahanka CCPP"/>
+    <tag k="operator" v="KPCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="220000"/>
+  </way>
+  <way id="766409549">
+    <nd ref="7157934119"/>
+    <nd ref="7157934118"/>
+    <nd ref="6795621720"/>
+    <nd ref="2718865331"/>
+    <nd ref="7157934119"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="777518480">
+    <nd ref="7255929417"/>
+    <nd ref="7255929416"/>
+    <nd ref="7255929415"/>
+    <nd ref="7255929414"/>
+    <nd ref="7255929417"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="C Station"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="start_date" v="1905"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </way>
+  <way id="777690244">
+    <nd ref="460976089"/>
+    <nd ref="445327547"/>
+    <nd ref="445327546"/>
+    <nd ref="445327545"/>
+    <nd ref="9077186610"/>
+    <nd ref="9077186609"/>
+    <nd ref="460976089"/>
+    <tag k="alt_name" v="IISc Substation"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="indoor"/>
+    <tag k="name" v="IISc MUSS"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </way>
+  <way id="781680963">
+    <nd ref="7298163767"/>
+    <nd ref="7298163766"/>
+    <nd ref="7298163765"/>
+    <nd ref="7298163764"/>
+    <nd ref="11763304912"/>
+    <nd ref="7298163763"/>
+    <nd ref="7298163762"/>
+    <nd ref="7298163767"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Khodays Glass Factory Substation"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="400 MVA"/>
+    <tag k="ref" v="1204002CE"/>
+    <tag k="start_date" v="1986-10-02"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="781700156">
+    <nd ref="7298370286"/>
+    <nd ref="7298370285"/>
+    <nd ref="7298366584"/>
+    <nd ref="7298366583"/>
+    <nd ref="7298370287"/>
+    <nd ref="7298370286"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="781773648">
+    <nd ref="7298992644"/>
+    <nd ref="7298992643"/>
+    <nd ref="7298992642"/>
+    <nd ref="7298992641"/>
+    <nd ref="7298992644"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="792790112">
+    <nd ref="7413281928"/>
+    <nd ref="7413281927"/>
+    <nd ref="7413281926"/>
+    <nd ref="7413281925"/>
+    <nd ref="7413281928"/>
+    <tag k="fixme" v="Is this really a substation?"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="792790150">
+    <nd ref="7413294323"/>
+    <nd ref="7413294322"/>
+    <nd ref="7413294321"/>
+    <nd ref="7413294320"/>
+    <nd ref="7413294323"/>
+    <tag k="fixme" v="Is this really a substation?"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="841027985">
+    <nd ref="7847428620"/>
+    <nd ref="7847428619"/>
+    <nd ref="7847428618"/>
+    <nd ref="7847428617"/>
+    <nd ref="7847428620"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="965216886">
+    <nd ref="8928917151"/>
+    <nd ref="8928917152"/>
+    <nd ref="8928917153"/>
+    <nd ref="8928917154"/>
+    <nd ref="8928917155"/>
+    <nd ref="8928917156"/>
+    <nd ref="8928917151"/>
+    <tag k="name" v="Pottery Road"/>
+    <tag k="name:kn" v="ಪಾಟೆರಿ ರಸ್ತೆ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="ref" v="1102011EF"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1013443902">
+    <nd ref="9350054900"/>
+    <nd ref="9350054899"/>
+    <nd ref="1096956291"/>
+    <nd ref="1624836196"/>
+    <nd ref="9350054900"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Brigade Gateway Substation"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="40 MVA"/>
+    <tag k="ref" v="BGW"/>
+    <tag k="start_date" v="1101011EF"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1060953964">
+    <nd ref="10047988937"/>
+    <nd ref="9748194162"/>
+    <nd ref="9748194163"/>
+    <nd ref="9759551596"/>
+    <nd ref="9748194157"/>
+    <nd ref="9748194158"/>
+    <nd ref="9748194159"/>
+    <nd ref="9761000046"/>
+    <nd ref="9761000047"/>
+    <nd ref="10047988938"/>
+    <nd ref="10047988937"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Vikas Tech Park Substation"/>
+    <tag k="operator" v="KTPCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="300 MVA"/>
+    <tag k="ref" v="1202003CE"/>
+    <tag k="start_date" v="2017-03-05"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="1064408561">
+    <nd ref="9775574176"/>
+    <nd ref="9775573210"/>
+    <nd ref="9775573209"/>
+    <nd ref="9775573208"/>
+    <nd ref="9775573207"/>
+    <nd ref="9775574175"/>
+    <nd ref="9775574176"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1064882695">
+    <nd ref="9779606608"/>
+    <nd ref="9779606609"/>
+    <nd ref="9821378601"/>
+    <nd ref="9779606610"/>
+    <nd ref="2412938605"/>
+    <nd ref="2412938593"/>
+    <nd ref="2412938561"/>
+    <nd ref="9525461652"/>
+    <nd ref="9779606608"/>
+    <tag k="name" v="Exora"/>
+    <tag k="operator" v="KTPCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="1070977173">
+    <nd ref="9828082737"/>
+    <nd ref="9828082736"/>
+    <nd ref="9828082735"/>
+    <nd ref="9828082734"/>
+    <nd ref="9828082733"/>
+    <nd ref="9828082737"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1073971280">
+    <nd ref="533577239"/>
+    <nd ref="8911923949"/>
+    <nd ref="9851292477"/>
+    <nd ref="9851292476"/>
+    <nd ref="12651750813"/>
+    <nd ref="533577239"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="L&amp;T Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+  </way>
+  <way id="1079087281">
+    <nd ref="9892036264"/>
+    <nd ref="9892036263"/>
+    <nd ref="9892036262"/>
+    <nd ref="9892036261"/>
+    <nd ref="9892036260"/>
+    <nd ref="9892036264"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1087820270">
+    <nd ref="9967143501"/>
+    <nd ref="9967143500"/>
+    <nd ref="9967143499"/>
+    <nd ref="9967143498"/>
+    <nd ref="9967143501"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="KPTCL HMT Layout"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000"/>
+  </way>
+  <way id="1089718003">
+    <nd ref="9981998137"/>
+    <nd ref="3343241036"/>
+    <nd ref="3343241041"/>
+    <nd ref="9981998139"/>
+    <nd ref="9981998138"/>
+    <nd ref="9981998137"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1097058965">
+    <nd ref="10045512733"/>
+    <nd ref="10045512730"/>
+    <nd ref="10045512731"/>
+    <nd ref="10045512732"/>
+    <nd ref="10045512733"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="indoor"/>
+    <tag k="name" v="Kanteerava Stadium"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="63 MVA"/>
+    <tag k="ref" v="1101014EF"/>
+    <tag k="start_date" v="2014-01-10"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1097058966">
+    <nd ref="10045512734"/>
+    <nd ref="10045512735"/>
+    <nd ref="10045512736"/>
+    <nd ref="10045512737"/>
+    <nd ref="10045512734"/>
+    <tag k="alt_name" v="A Station"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Victoria Hospital Substation"/>
+    <tag k="name:kn" v="ವಿಕ್ಟೋರಿಯಾ ಆಸ್ಪತ್ರೆ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="start_date" v="1905"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </way>
+  <way id="1097058968">
+    <nd ref="10045512743"/>
+    <nd ref="10045512746"/>
+    <nd ref="13584352153"/>
+    <nd ref="13584352154"/>
+    <nd ref="13584352156"/>
+    <nd ref="13584352155"/>
+    <nd ref="10045512744"/>
+    <nd ref="10045512743"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Telecom Layout Substation"/>
+    <tag k="name:kn" v="ಟೆಲಿಕಾಂ ಬಡಾವಣೆ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </way>
+  <way id="1097058974">
+    <nd ref="10045512758"/>
+    <nd ref="10045512757"/>
+    <nd ref="10045512756"/>
+    <nd ref="10045512755"/>
+    <nd ref="10045512758"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Srigandhakavalu"/>
+    <tag k="name:kn" v="ಶ್ರೀಗಂಧಕಾವಲು"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </way>
+  <way id="1097223361">
+    <nd ref="10046913341"/>
+    <nd ref="493493697"/>
+    <nd ref="10046913339"/>
+    <nd ref="10046913338"/>
+    <nd ref="10046913341"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="National College Substation"/>
+    <tag k="name:kn" v="ರಾಷ್ಟ್ರೀಯ ಕಾಲೇಜು"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="63 MVA"/>
+    <tag k="ref" v="1101015EF"/>
+    <tag k="start_date" v="2015-01-28"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1097223362">
+    <nd ref="10046913342"/>
+    <nd ref="10046913345"/>
+    <nd ref="10046913344"/>
+    <nd ref="10046913343"/>
+    <nd ref="10046913342"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="indoor"/>
+    <tag k="name" v="Jayanagar Substation"/>
+    <tag k="name:kn" v="ಜಯನಗರ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="63 MVA"/>
+    <tag k="ref" v="1101013EF"/>
+    <tag k="start_date" v="2013-11-13"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1097223363">
+    <nd ref="6481981466"/>
+    <nd ref="10046913347"/>
+    <nd ref="8442476345"/>
+    <nd ref="8442476346"/>
+    <nd ref="10046913346"/>
+    <nd ref="6481981465"/>
+    <nd ref="3538417972"/>
+    <nd ref="6481981466"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="indoor"/>
+    <tag k="name" v="REMCO"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="63 MVA"/>
+    <tag k="ref" v="110102EF"/>
+    <tag k="start_date" v="2010-12-03"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1097223364">
+    <nd ref="10753340329"/>
+    <nd ref="10046913349"/>
+    <nd ref="6527314791"/>
+    <nd ref="9633893499"/>
+    <nd ref="596453191"/>
+    <nd ref="10753340331"/>
+    <nd ref="10753340330"/>
+    <nd ref="10753340329"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="East Division Compound"/>
+    <tag k="name:kn" v="ವಿಶ್ವೇಶ್ವರಯ್ಯ"/>
+    <tag k="official_name" v="Vishweshwaraiah Substation"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="300 MVA"/>
+    <tag k="ref" v="1101001CE"/>
+    <tag k="start_date" v="2010-12-20"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="1097263270">
+    <nd ref="10047179069"/>
+    <nd ref="10047179068"/>
+    <nd ref="10047179067"/>
+    <nd ref="10047179066"/>
+    <nd ref="10047179065"/>
+    <nd ref="10047179064"/>
+    <nd ref="10047179069"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="ITC Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1097263271">
+    <nd ref="1448280849"/>
+    <nd ref="10047179070"/>
+    <nd ref="1448280858"/>
+    <nd ref="1448280847"/>
+    <nd ref="1448280849"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="St Johns Wood Substation"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="40 MVA"/>
+    <tag k="ref" v="1201021EF"/>
+    <tag k="start_date" v="2009-03-30"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1097273235">
+    <nd ref="10047264315"/>
+    <nd ref="10047264314"/>
+    <nd ref="10047264313"/>
+    <nd ref="10047264312"/>
+    <nd ref="10047264311"/>
+    <nd ref="10047264310"/>
+    <nd ref="10047264315"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Arehalli"/>
+    <tag k="name:kn" v="ಅರೆಹಳ್ಳಿ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="40 MVA"/>
+    <tag k="ref" v="1204014EF"/>
+    <tag k="start_date" v="1999-11-04"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1097273236">
+    <nd ref="10047283919"/>
+    <nd ref="10047283918"/>
+    <nd ref="11279447629"/>
+    <nd ref="10047283917"/>
+    <nd ref="10047264316"/>
+    <nd ref="10047283919"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Banashankari"/>
+    <tag k="name:kn" v="ಬನಶಂಕರಿ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="83 MVA"/>
+    <tag k="ref" v="1204011EF"/>
+    <tag k="start_date" v="1987-01-24"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1097273237">
+    <nd ref="10047283924"/>
+    <nd ref="10047283923"/>
+    <nd ref="10047283922"/>
+    <nd ref="10047283921"/>
+    <nd ref="10047283920"/>
+    <nd ref="10047283924"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Rajajeshwari Nagar"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="40 MVA"/>
+    <tag k="ref" v="1204013EF"/>
+    <tag k="start_date" v="1998-12-31"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1097273238">
+    <nd ref="10047283925"/>
+    <nd ref="2836932781"/>
+    <nd ref="2836932778"/>
+    <nd ref="2836932780"/>
+    <nd ref="2836932782"/>
+    <nd ref="10047283926"/>
+    <nd ref="10047283925"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Vrishabavathi Valley Substation"/>
+    <tag k="name:kn" v="ವೃಷಭಾವತಿ ಕಣಿವೆ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="300MVA"/>
+    <tag k="ref" v="1103003CE"/>
+    <tag k="start_date" v="2009-03-04"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="1097355603">
+    <nd ref="11696226791"/>
+    <nd ref="10047954707"/>
+    <nd ref="10047954706"/>
+    <nd ref="10047954709"/>
+    <nd ref="11696226793"/>
+    <nd ref="11696226792"/>
+    <nd ref="11696226791"/>
+    <tag k="frequency" v="50"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Manyata Substation"/>
+    <tag k="name:kn" v="ಮಾನ್ಯತ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="500 MVA"/>
+    <tag k="ref" v="1102018BC"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="1097355608">
+    <nd ref="10047988937"/>
+    <nd ref="10047988938"/>
+    <nd ref="9781262642"/>
+    <nd ref="9748194160"/>
+    <nd ref="9748194161"/>
+    <nd ref="9779573284"/>
+    <nd ref="10047988937"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Vikas Tech Park Substation"/>
+    <tag k="operator" v="KTPCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="63 MVA"/>
+    <tag k="ref" v="1202003EF"/>
+    <tag k="start_date" v="2017-03-05"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1097355609">
+    <nd ref="10047988939"/>
+    <nd ref="5581917474"/>
+    <nd ref="5581917479"/>
+    <nd ref="10047988940"/>
+    <nd ref="10047988939"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="HAL Substation"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="300 MVA"/>
+    <tag k="ref" v="1202001CE"/>
+    <tag k="start_date" v="2008-08-31"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="1097355610">
+    <nd ref="10047988941"/>
+    <nd ref="10047988942"/>
+    <nd ref="1837395691"/>
+    <nd ref="1837395693"/>
+    <nd ref="10047988941"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Nimhans Substation"/>
+    <tag k="name:kn" v="ನಿಹ್ಮಾನ್ಸ್"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="40 MVA"/>
+    <tag k="ref" v="1201003EF"/>
+    <tag k="start_date" v="2004-02-26"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1097355611">
+    <nd ref="10047988943"/>
+    <nd ref="3559106263"/>
+    <nd ref="2836932353"/>
+    <nd ref="1471803539"/>
+    <nd ref="2836932354"/>
+    <nd ref="10047988944"/>
+    <nd ref="10047988943"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Naganathapura Substation"/>
+    <tag k="name:kn" v="ನಾಗನಾಥಪುರ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="200 MVA"/>
+    <tag k="ref" v="1201002CE"/>
+    <tag k="start_date" v="2009-05-29"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="1097355612">
+    <nd ref="10047988945"/>
+    <nd ref="1510919326"/>
+    <nd ref="266267469"/>
+    <nd ref="13426099533"/>
+    <nd ref="266267462"/>
+    <nd ref="13426099528"/>
+    <nd ref="10047988946"/>
+    <nd ref="10047988945"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="HSR Layout Substation"/>
+    <tag k="name:kn" v="ಕರ್ನಾಟಕ ವಿದ್ಯುತ್ ಪ್ರಸರಣ ನಿಗಮ ನಿಯಮಿತ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="83 MVA"/>
+    <tag k="ref" v="1201001EF"/>
+    <tag k="start_date" v="1998-01-26"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1097355613">
+    <nd ref="483411139"/>
+    <nd ref="10047988948"/>
+    <nd ref="483411135"/>
+    <nd ref="483411138"/>
+    <nd ref="483411139"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Peenya Substation"/>
+    <tag k="name:kn" v="ಪೀಣ್ಯ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="159 MVA"/>
+    <tag k="ref" v="1104001EF"/>
+    <tag k="start_date" v="1965-01-25"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1107039354">
+    <nd ref="5961837340"/>
+    <nd ref="10129833520"/>
+    <nd ref="10296378556"/>
+    <nd ref="5961837342"/>
+    <nd ref="5961837341"/>
+    <nd ref="5961837340"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1107044269">
+    <nd ref="10129868335"/>
+    <nd ref="10129868334"/>
+    <nd ref="6017656466"/>
+    <nd ref="10129868333"/>
+    <nd ref="10129868335"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1116926301">
+    <nd ref="11281292839"/>
+    <nd ref="6035864543"/>
+    <nd ref="10215045109"/>
+    <nd ref="11281292840"/>
+    <nd ref="11281292839"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </way>
+  <way id="1182510990">
+    <nd ref="12432995650"/>
+    <nd ref="12334829681"/>
+    <nd ref="7232663685"/>
+    <nd ref="12432995648"/>
+    <nd ref="12432995649"/>
+    <nd ref="12432995650"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Sobha Dream Acres Substation"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="1186655038">
+    <nd ref="11021314552"/>
+    <nd ref="11021314551"/>
+    <nd ref="11021314550"/>
+    <nd ref="11021314549"/>
+    <nd ref="11021314552"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </way>
+  <way id="1186655039">
+    <nd ref="11021314558"/>
+    <nd ref="11021314557"/>
+    <nd ref="11021314556"/>
+    <nd ref="11021314555"/>
+    <nd ref="11021314558"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </way>
+  <way id="1186655041">
+    <nd ref="11021314567"/>
+    <nd ref="11021314566"/>
+    <nd ref="11021314565"/>
+    <nd ref="11553915229"/>
+    <nd ref="11553915230"/>
+    <nd ref="10996457441"/>
+    <nd ref="11021314567"/>
+    <tag k="frequency" v="50"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </way>
+  <way id="1187741529">
+    <nd ref="11028992209"/>
+    <nd ref="11028992211"/>
+    <nd ref="11028992210"/>
+    <nd ref="3770120731"/>
+    <nd ref="11028992209"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </way>
+  <way id="1190032730">
+    <nd ref="11049841391"/>
+    <nd ref="11049841392"/>
+    <nd ref="11049841393"/>
+    <nd ref="11049841394"/>
+    <nd ref="11049841395"/>
+    <nd ref="11049841391"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="BMRCL RSS"/>
+    <tag k="operator" v="BMRCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+    <tag k="voltage" v="66000"/>
+  </way>
+  <way id="1190136202">
+    <nd ref="11050748214"/>
+    <nd ref="11050748213"/>
+    <nd ref="12999125395"/>
+    <nd ref="1534272817"/>
+    <nd ref="1387699155"/>
+    <nd ref="1384847875"/>
+    <nd ref="289208544"/>
+    <nd ref="12999125393"/>
+    <nd ref="12999125394"/>
+    <nd ref="11050748214"/>
+    <tag k="name" v="ITPL"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000"/>
+  </way>
+  <way id="1195585403">
+    <nd ref="11096903666"/>
+    <nd ref="11096903668"/>
+    <nd ref="11096903667"/>
+    <nd ref="11096903666"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Raheja Mansion Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+  </way>
+  <way id="1212112579">
+    <nd ref="11229768613"/>
+    <nd ref="11229768612"/>
+    <nd ref="11232355990"/>
+    <nd ref="11229768611"/>
+    <nd ref="9525461679"/>
+    <nd ref="11229768613"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="ETV Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </way>
+  <way id="1212362568">
+    <nd ref="11232355711"/>
+    <nd ref="11232355710"/>
+    <nd ref="11232355709"/>
+    <nd ref="9796653744"/>
+    <nd ref="11232355711"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </way>
+  <way id="1212362570">
+    <nd ref="11232355717"/>
+    <nd ref="11232355716"/>
+    <nd ref="11232355715"/>
+    <nd ref="11232355714"/>
+    <nd ref="11232355717"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </way>
+  <way id="1212362571">
+    <nd ref="11232355719"/>
+    <nd ref="11232355718"/>
+    <nd ref="9525461652"/>
+    <nd ref="2412938561"/>
+    <nd ref="2412938593"/>
+    <nd ref="2412938605"/>
+    <nd ref="2412938599"/>
+    <nd ref="11232355719"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </way>
+  <way id="1217243748">
+    <nd ref="11278749396"/>
+    <nd ref="12989051941"/>
+    <nd ref="7289196436"/>
+    <nd ref="11184862664"/>
+    <nd ref="11184862665"/>
+    <nd ref="11184862666"/>
+    <nd ref="7289196434"/>
+    <nd ref="11278749399"/>
+    <nd ref="11278749398"/>
+    <nd ref="11278749397"/>
+    <nd ref="11278785675"/>
+    <nd ref="11278749396"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Nagarbhavi KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="220000"/>
+  </way>
+  <way id="1217710861">
+    <nd ref="11283011574"/>
+    <nd ref="11283011575"/>
+    <nd ref="11283011576"/>
+    <nd ref="11283011577"/>
+    <nd ref="11283011574"/>
+    <tag k="building" v="no"/>
+    <tag k="name" v="PLRD Electrict Yard"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+  </way>
+  <way id="1217945474">
+    <nd ref="11285500801"/>
+    <nd ref="11285500802"/>
+    <nd ref="11285500803"/>
+    <nd ref="11285500804"/>
+    <nd ref="11285500801"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+  </way>
+  <way id="1220092530">
+    <nd ref="11304358269"/>
+    <nd ref="11305237388"/>
+    <nd ref="11305237387"/>
+    <nd ref="11305237386"/>
+    <nd ref="11304358269"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </way>
+  <way id="1234104590">
+    <nd ref="11453239104"/>
+    <nd ref="11453239103"/>
+    <nd ref="11453239102"/>
+    <nd ref="11453239101"/>
+    <nd ref="11453239104"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1238665547">
+    <nd ref="11506520711"/>
+    <nd ref="11506520710"/>
+    <nd ref="11506520709"/>
+    <nd ref="11506520708"/>
+    <nd ref="11506520711"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1240776929">
+    <nd ref="11528250220"/>
+    <nd ref="11528250219"/>
+    <nd ref="11528250218"/>
+    <nd ref="11528250217"/>
+    <nd ref="11528250220"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1241555389">
+    <nd ref="11536087739"/>
+    <nd ref="11536087738"/>
+    <nd ref="11536087737"/>
+    <nd ref="11536087736"/>
+    <nd ref="11536087739"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1253158064">
+    <nd ref="11648302886"/>
+    <nd ref="11648302885"/>
+    <nd ref="11648302884"/>
+    <nd ref="11648302883"/>
+    <nd ref="11648302886"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+  </way>
+  <way id="1256756134">
+    <nd ref="11683268361"/>
+    <nd ref="11683268360"/>
+    <nd ref="12102898473"/>
+    <nd ref="11683268359"/>
+    <nd ref="4641627199"/>
+    <nd ref="11683268361"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Prestige Shantiniketan Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+  </way>
+  <way id="1261422278">
+    <nd ref="11722359270"/>
+    <nd ref="11722359227"/>
+    <nd ref="11722359269"/>
+    <nd ref="11722359268"/>
+    <nd ref="11722359267"/>
+    <nd ref="11722359226"/>
+    <nd ref="11722359270"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1267672101">
+    <nd ref="11773469203"/>
+    <nd ref="11773469202"/>
+    <nd ref="11773469201"/>
+    <nd ref="11773469200"/>
+    <nd ref="11773469203"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Hinduja Ecopolis Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1267710988">
+    <nd ref="11773801214"/>
+    <nd ref="11773801211"/>
+    <nd ref="11773801212"/>
+    <nd ref="11773801213"/>
+    <nd ref="11773801214"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+  </way>
+  <way id="1267728593">
+    <nd ref="11773916160"/>
+    <nd ref="11773916159"/>
+    <nd ref="11773916157"/>
+    <nd ref="11773916158"/>
+    <nd ref="6980128777"/>
+    <nd ref="11773916160"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+  </way>
+  <way id="1268945171">
+    <nd ref="11786209028"/>
+    <nd ref="11786209027"/>
+    <nd ref="11786209026"/>
+    <nd ref="11786209025"/>
+    <nd ref="9781379800"/>
+    <nd ref="11786209028"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1270623498">
+    <nd ref="1925659649"/>
+    <nd ref="11799677385"/>
+    <nd ref="1925659647"/>
+    <nd ref="1925659652"/>
+    <nd ref="1925659649"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1270788364">
+    <nd ref="11801321510"/>
+    <nd ref="11801321509"/>
+    <nd ref="11801321508"/>
+    <nd ref="11801321507"/>
+    <nd ref="11801321510"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1274389151">
+    <nd ref="1371859154"/>
+    <nd ref="11832800758"/>
+    <nd ref="11832800763"/>
+    <nd ref="11832800762"/>
+    <nd ref="11832800764"/>
+    <nd ref="1371859154"/>
+    <tag k="frequency" v="50"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Brigade Tech Gardens Brookefield"/>
+    <tag k="operator" v="Karnataka Power Transmission Corporation Limited"/>
+    <tag k="power" v="substation"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1279609576">
+    <nd ref="11878636979"/>
+    <nd ref="11878636976"/>
+    <nd ref="11878636977"/>
+    <nd ref="11878636978"/>
+    <nd ref="11878636979"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+  </way>
+  <way id="1280619034">
+    <nd ref="11887013658"/>
+    <nd ref="11887013659"/>
+    <nd ref="11887013660"/>
+    <nd ref="11887013661"/>
+    <nd ref="11887013662"/>
+    <nd ref="6313723314"/>
+    <nd ref="6313723313"/>
+    <nd ref="483411138"/>
+    <nd ref="11887013658"/>
+    <tag k="frequency" v="50"/>
+    <tag k="full_name" v="Sharavathi Receiving Station Peenya Substation"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="SRS Peenya Substation"/>
+    <tag k="name:kn" v="ಪೀಣ್ಯ"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="2x500 MVA"/>
+    <tag k="start_date" v="2024"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="400000;220000"/>
+  </way>
+  <way id="1281206626">
+    <nd ref="11891699098"/>
+    <nd ref="11891699097"/>
+    <nd ref="11891699096"/>
+    <nd ref="11891699095"/>
+    <nd ref="11891699098"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1281342437">
+    <nd ref="11892732350"/>
+    <nd ref="11892732349"/>
+    <nd ref="11892732348"/>
+    <nd ref="11892732347"/>
+    <nd ref="11892732350"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1286468292">
+    <nd ref="11932169057"/>
+    <nd ref="11932169056"/>
+    <nd ref="5810245170"/>
+    <nd ref="5810245171"/>
+    <nd ref="11932169057"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+  </way>
+  <way id="1286756038">
+    <nd ref="11934561656"/>
+    <nd ref="11934561655"/>
+    <nd ref="11934561654"/>
+    <nd ref="11934561653"/>
+    <nd ref="11934561652"/>
+    <nd ref="11934561656"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="minor_distribution"/>
+  </way>
+  <way id="1298279416">
+    <nd ref="12027575963"/>
+    <nd ref="12027575962"/>
+    <nd ref="12027575961"/>
+    <nd ref="12027575960"/>
+    <nd ref="12027575963"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1345407074">
+    <nd ref="3669588431"/>
+    <nd ref="3669588433"/>
+    <nd ref="3669588436"/>
+    <nd ref="3669588432"/>
+    <nd ref="7298163780"/>
+    <nd ref="3669588431"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1349974951">
+    <nd ref="12488316247"/>
+    <nd ref="12488316234"/>
+    <nd ref="12488316233"/>
+    <nd ref="12488316246"/>
+    <nd ref="12488316247"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1354098139">
+    <nd ref="12530895477"/>
+    <nd ref="12530895476"/>
+    <nd ref="12530895475"/>
+    <nd ref="12530895474"/>
+    <nd ref="12530895473"/>
+    <nd ref="12530895477"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1354126976">
+    <nd ref="11126773004"/>
+    <nd ref="11126772999"/>
+    <nd ref="1925224112"/>
+    <nd ref="11049701602"/>
+    <nd ref="11049706909"/>
+    <nd ref="11049706910"/>
+    <nd ref="11049706908"/>
+    <nd ref="11049701603"/>
+    <nd ref="11126773004"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="MUSS NGEF"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000;11000"/>
+  </way>
+  <way id="1359786564">
+    <nd ref="12586987309"/>
+    <nd ref="7448001435"/>
+    <nd ref="7448001434"/>
+    <nd ref="13368653180"/>
+    <nd ref="13368653181"/>
+    <nd ref="12586987312"/>
+    <nd ref="12586987309"/>
+    <tag k="name" v="ITI"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="operator:wikidata" v="Q17064153"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000;66000"/>
+  </way>
+  <way id="1360490750">
+    <nd ref="12594350387"/>
+    <nd ref="12594350388"/>
+    <nd ref="12594350389"/>
+    <nd ref="12594350390"/>
+    <nd ref="12594350387"/>
+    <tag k="name" v="Brindavan"/>
+    <tag k="operator" v="KPTCL"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000;66000;11000"/>
+  </way>
+  <way id="1410000976">
+    <nd ref="12956091246"/>
+    <nd ref="12956091247"/>
+    <nd ref="12956091248"/>
+    <nd ref="12956091249"/>
+    <nd ref="12956091246"/>
+    <tag k="addr:street" v="Varthur Lake Road"/>
+    <tag k="building" v="service"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:material" v="plaster"/>
+    <tag k="power" v="substation"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="flat"/>
+    <tag k="substation" v="minor_distribution"/>
+    <tag k="utility" v="power"/>
+  </way>
+  <way id="1443623292">
+    <nd ref="13247161015"/>
+    <nd ref="13247161014"/>
+    <nd ref="13247161013"/>
+    <nd ref="3297434365"/>
+    <nd ref="4127793845"/>
+    <nd ref="13247161015"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1457696788">
+    <nd ref="13368984084"/>
+    <nd ref="13368984083"/>
+    <nd ref="13368984082"/>
+    <nd ref="13368984081"/>
+    <nd ref="13368984080"/>
+    <nd ref="13368984084"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1457696790">
+    <nd ref="13368984092"/>
+    <nd ref="13368984091"/>
+    <nd ref="13368984090"/>
+    <nd ref="13368984089"/>
+    <nd ref="13368984092"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1457696791">
+    <nd ref="13368984098"/>
+    <nd ref="13368984097"/>
+    <nd ref="13368984096"/>
+    <nd ref="13368984095"/>
+    <nd ref="13368984094"/>
+    <nd ref="13368984093"/>
+    <nd ref="13368984098"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1457696793">
+    <nd ref="13368993115"/>
+    <nd ref="13368993114"/>
+    <nd ref="13368993113"/>
+    <nd ref="13368993112"/>
+    <nd ref="13368993111"/>
+    <nd ref="13368993110"/>
+    <nd ref="13368993115"/>
+    <tag k="power" v="substation"/>
+  </way>
+  <way id="1497373620">
+    <nd ref="13713944709"/>
+    <nd ref="13713944710"/>
+    <nd ref="13713944711"/>
+    <nd ref="13713944712"/>
+    <nd ref="13713944709"/>
+    <tag k="name" v="Mathikere"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000"/>
+  </way>
+  <way id="1499554919">
+    <nd ref="13731882255"/>
+    <nd ref="13731882256"/>
+    <nd ref="13731882257"/>
+    <nd ref="13731882258"/>
+    <nd ref="13731882259"/>
+    <nd ref="13731882260"/>
+    <nd ref="13731882261"/>
+    <nd ref="13731882255"/>
+    <tag k="name" v="Whitefield"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="220000"/>
+  </way>
+  <node id="13368984089" lat="12.8603391" lon="77.5406671"/>
+  <node id="13368984090" lat="12.8602868" lon="77.5411740"/>
+  <node id="13368984091" lat="12.8609143" lon="77.5412813"/>
+  <node id="13368984092" lat="12.8609536" lon="77.5407931"/>
+  <node id="3669588433" lat="12.8604132" lon="77.5552528"/>
+  <node id="3669588431" lat="12.8600263" lon="77.5554017"/>
+  <node id="3669588432" lat="12.8603165" lon="77.5561768"/>
+  <node id="3669588436" lat="12.8607095" lon="77.5560094"/>
+  <node id="7298163780" lat="12.8601508" lon="77.5558913"/>
+  <node id="12488316233" lat="12.8772271" lon="77.5307202"/>
+  <node id="12488316234" lat="12.8773129" lon="77.5303805"/>
+  <node id="12488316246" lat="12.8767809" lon="77.5306082"/>
+  <node id="12488316247" lat="12.8768847" lon="77.5302068"/>
+  <node id="11283011574" lat="12.8965304" lon="77.5400066"/>
+  <node id="11283011575" lat="12.8965729" lon="77.5400874"/>
+  <node id="11283011576" lat="12.8964433" lon="77.5401574"/>
+  <node id="11283011577" lat="12.8964028" lon="77.5400774"/>
+  <node id="11285500801" lat="12.8946601" lon="77.5405974"/>
+  <node id="11285500802" lat="12.8946060" lon="77.5407999"/>
+  <node id="11285500803" lat="12.8945324" lon="77.5407792"/>
+  <node id="11285500804" lat="12.8945896" lon="77.5405768"/>
+  <node id="7298163762" lat="12.8731231" lon="77.5651824"/>
+  <node id="7298163763" lat="12.8729714" lon="77.5661534"/>
+  <node id="7298163764" lat="12.8739206" lon="77.5662580"/>
+  <node id="7298163765" lat="12.8739834" lon="77.5659791"/>
+  <node id="7298163766" lat="12.8741141" lon="77.5658315"/>
+  <node id="7298163767" lat="12.8742135" lon="77.5653809"/>
+  <node id="11763304912" lat="12.8733246" lon="77.5661923"/>
+  <node id="2836932629" lat="12.8950386" lon="77.5469195"/>
+  <node id="2836932630" lat="12.8952455" lon="77.5461064"/>
+  <node id="2836932632" lat="12.8955302" lon="77.5460948"/>
+  <node id="2836932634" lat="12.8961522" lon="77.5461862"/>
+  <node id="2836932635" lat="12.8963152" lon="77.5461733"/>
+  <node id="2836932636" lat="12.8964030" lon="77.5473595"/>
+  <node id="2836932637" lat="12.8964161" lon="77.5473242"/>
+  <node id="2836932638" lat="12.8964570" lon="77.5472141"/>
+  <node id="2836932640" lat="12.8964958" lon="77.5469800"/>
+  <node id="2836932641" lat="12.8965259" lon="77.5469851"/>
+  <node id="2836932642" lat="12.8966011" lon="77.5463838"/>
+  <node id="2836932643" lat="12.8966187" lon="77.5462840"/>
+  <node id="2836932648" lat="12.8968000" lon="77.5474271"/>
+  <node id="2836932649" lat="12.8968620" lon="77.5472488"/>
+  <node id="2836932650" lat="12.8969365" lon="77.5471269"/>
+  <node id="2836932653" lat="12.8970589" lon="77.5469795"/>
+  <node id="2836932657" lat="12.8972061" lon="77.5468030"/>
+  <node id="2836932659" lat="12.8972628" lon="77.5465046"/>
+  <node id="2836932666" lat="12.8982215" lon="77.5570009"/>
+  <node id="2836932668" lat="12.8984359" lon="77.5566599"/>
+  <node id="2836932669" lat="12.8985827" lon="77.5573084"/>
+  <node id="2836932670" lat="12.8986491" lon="77.5568401"/>
+  <node id="2836932672" lat="12.8987294" lon="77.5568684"/>
+  <node id="1925659647" lat="12.8883112" lon="77.5809075"/>
+  <node id="1925659649" lat="12.8887002" lon="77.5802927"/>
+  <node id="1925659652" lat="12.8887114" lon="77.5808546"/>
+  <node id="11799677385" lat="12.8883068" lon="77.5803664"/>
+  <node id="1586537668" lat="12.8953205" lon="77.5776547"/>
+  <node id="4375213600" lat="12.8950015" lon="77.5777110"/>
+  <node id="4375213601" lat="12.8950511" lon="77.5778049"/>
+  <node id="4375213603" lat="12.8951427" lon="77.5780034"/>
+  <node id="4375213604" lat="12.8952838" lon="77.5775796"/>
+  <node id="4375213605" lat="12.8954224" lon="77.5778424"/>
+  <node id="11801321507" lat="12.8888088" lon="77.5886478"/>
+  <node id="11801321508" lat="12.8884754" lon="77.5886223"/>
+  <node id="11801321509" lat="12.8885303" lon="77.5880764"/>
+  <node id="11801321510" lat="12.8888362" lon="77.5882038"/>
+  <node id="362380398" lat="12.9074393" lon="77.5811258"/>
+  <node id="362380400" lat="12.9079413" lon="77.5811862"/>
+  <node id="362380402" lat="12.9080499" lon="77.5808963"/>
+  <node id="362383165" lat="12.9074528" lon="77.5799700"/>
+  <node id="362383167" lat="12.9083050" lon="77.5802155"/>
+  <node id="11304473519" lat="12.9079138" lon="77.5800768"/>
+  <node id="11304473520" lat="12.9078981" lon="77.5801270"/>
+  <node id="2836009493" lat="12.9185369" lon="77.4747673"/>
+  <node id="2836009494" lat="12.9186089" lon="77.4745568"/>
+  <node id="2836009495" lat="12.9186917" lon="77.4749569"/>
+  <node id="2836009496" lat="12.9188585" lon="77.4742798"/>
+  <node id="2836009498" lat="12.9191285" lon="77.4743142"/>
+  <node id="2836009499" lat="12.9192329" lon="77.4750332"/>
+  <node id="2836009500" lat="12.9193732" lon="77.4744632"/>
+  <node id="11934561652" lat="12.9431113" lon="77.4781542"/>
+  <node id="11934561653" lat="12.9427179" lon="77.4781676"/>
+  <node id="11934561654" lat="12.9427205" lon="77.4788743"/>
+  <node id="11934561655" lat="12.9431140" lon="77.4787804"/>
+  <node id="11934561656" lat="12.9431832" lon="77.4783204"/>
+  <node id="11536087736" lat="12.9854332" lon="77.4810213"/>
+  <node id="11536087737" lat="12.9853477" lon="77.4814291"/>
+  <node id="11536087738" lat="12.9857791" lon="77.4814504"/>
+  <node id="11536087739" lat="12.9858662" lon="77.4810707"/>
+  <node id="5810245170" lat="12.9174166" lon="77.5046350"/>
+  <node id="5810245171" lat="12.9172430" lon="77.5051390"/>
+  <node id="11932169056" lat="12.9171001" lon="77.5043580"/>
+  <node id="11932169057" lat="12.9165866" lon="77.5047309"/>
+  <node id="10047283920" lat="12.9139283" lon="77.5281937"/>
+  <node id="10047283921" lat="12.9139019" lon="77.5284323"/>
+  <node id="10047283922" lat="12.9139667" lon="77.5287079"/>
+  <node id="10047283923" lat="12.9144367" lon="77.5288801"/>
+  <node id="10047283924" lat="12.9143863" lon="77.5283610"/>
+  <node id="2836932778" lat="12.9352200" lon="77.5207147"/>
+  <node id="2836932780" lat="12.9353586" lon="77.5207715"/>
+  <node id="2836932781" lat="12.9354558" lon="77.5200335"/>
+  <node id="2836932782" lat="12.9359012" lon="77.5209062"/>
+  <node id="2836932784" lat="12.9361370" lon="77.5209881"/>
+  <node id="2836932786" lat="12.9363179" lon="77.5210936"/>
+  <node id="2836932788" lat="12.9368361" lon="77.5204357"/>
+  <node id="2836932791" lat="12.9370190" lon="77.5207537"/>
+  <node id="3537416085" lat="12.9357916" lon="77.5208245"/>
+  <node id="3537416089" lat="12.9358667" lon="77.5206023"/>
+  <node id="3537416091" lat="12.9359287" lon="77.5208732"/>
+  <node id="3537416302" lat="12.9360038" lon="77.5206510"/>
+  <node id="7176651725" lat="12.9368335" lon="77.5205657"/>
+  <node id="10047283925" lat="12.9361789" lon="77.5202442"/>
+  <node id="10047283926" lat="12.9359499" lon="77.5209231"/>
+  <node id="10047264316" lat="12.9341910" lon="77.5390091"/>
+  <node id="10047283917" lat="12.9345504" lon="77.5383259"/>
+  <node id="10047283918" lat="12.9351146" lon="77.5384410"/>
+  <node id="10047283919" lat="12.9348706" lon="77.5391836"/>
+  <node id="11279447629" lat="12.9347382" lon="77.5383642"/>
+  <node id="3538417972" lat="12.9458963" lon="77.5307082"/>
+  <node id="6481981465" lat="12.9459321" lon="77.5308415"/>
+  <node id="6481981466" lat="12.9453203" lon="77.5308758"/>
+  <node id="8442476345" lat="12.9459110" lon="77.5312136"/>
+  <node id="8442476346" lat="12.9458391" lon="77.5309923"/>
+  <node id="10046913346" lat="12.9459629" lon="77.5309448"/>
+  <node id="10046913347" lat="12.9454418" lon="77.5314027"/>
+  <node id="4323398652" lat="12.9584273" lon="77.5288067"/>
+  <node id="4323398653" lat="12.9585403" lon="77.5284681"/>
+  <node id="4323398656" lat="12.9588596" lon="77.5289586"/>
+  <node id="4323398657" lat="12.9589726" lon="77.5286201"/>
+  <node id="10047264310" lat="12.9155578" lon="77.5435540"/>
+  <node id="10047264311" lat="12.9156057" lon="77.5432939"/>
+  <node id="10047264312" lat="12.9157583" lon="77.5433284"/>
+  <node id="10047264313" lat="12.9158139" lon="77.5431347"/>
+  <node id="10047264314" lat="12.9159794" lon="77.5431373"/>
+  <node id="10047264315" lat="12.9158501" lon="77.5436097"/>
+  <node id="3509476246" lat="12.9222942" lon="77.5604014"/>
+  <node id="3509476247" lat="12.9219874" lon="77.5603407"/>
+  <node id="3509476248" lat="12.9218111" lon="77.5611518"/>
+  <node id="3509476249" lat="12.9221634" lon="77.5609962"/>
+  <node id="10046913342" lat="12.9321677" lon="77.5834895"/>
+  <node id="10046913343" lat="12.9321683" lon="77.5832297"/>
+  <node id="10046913344" lat="12.9324666" lon="77.5832304"/>
+  <node id="10046913345" lat="12.9324660" lon="77.5834902"/>
+  <node id="493493697" lat="12.9531068" lon="77.5733686"/>
+  <node id="10046913338" lat="12.9527492" lon="77.5735254"/>
+  <node id="10046913339" lat="12.9527532" lon="77.5733803"/>
+  <node id="10046913341" lat="12.9530943" lon="77.5735254"/>
+  <node id="1837395691" lat="12.9409778" lon="77.5918497"/>
+  <node id="1837395693" lat="12.9410267" lon="77.5912223"/>
+  <node id="1837395696" lat="12.9412677" lon="77.5918489"/>
+  <node id="1837395698" lat="12.9415543" lon="77.5917402"/>
+  <node id="1837395700" lat="12.9416826" lon="77.5912433"/>
+  <node id="10047988941" lat="12.9412661" lon="77.5912300"/>
+  <node id="10047988942" lat="12.9412305" lon="77.5918490"/>
+  <node id="10045512734" lat="12.9644116" lon="77.5730987"/>
+  <node id="10045512735" lat="12.9641027" lon="77.5731070"/>
+  <node id="10045512736" lat="12.9640047" lon="77.5728495"/>
+  <node id="10045512737" lat="12.9643910" lon="77.5728398"/>
+  <node id="1837395763" lat="12.9539297" lon="77.5942032"/>
+  <node id="1837395778" lat="12.9542412" lon="77.5944305"/>
+  <node id="1837395791" lat="12.9544334" lon="77.5936763"/>
+  <node id="1837395804" lat="12.9546768" lon="77.5938694"/>
+  <node id="12102942781" lat="12.9545796" lon="77.5937998"/>
+  <node id="7289196434" lat="12.9670942" lon="77.5111413"/>
+  <node id="7289196436" lat="12.9675398" lon="77.5123107"/>
+  <node id="11184862664" lat="12.9690298" lon="77.5124154"/>
+  <node id="11184862665" lat="12.9687984" lon="77.5115544"/>
+  <node id="11184862666" lat="12.9680300" lon="77.5115168"/>
+  <node id="11278749396" lat="12.9666681" lon="77.5122203"/>
+  <node id="11278749397" lat="12.9667414" lon="77.5118360"/>
+  <node id="11278749398" lat="12.9668668" lon="77.5118172"/>
+  <node id="11278749399" lat="12.9667910" lon="77.5112084"/>
+  <node id="11278785675" lat="12.9666901" lon="77.5121052"/>
+  <node id="12989051941" lat="12.9666708" lon="77.5122718"/>
+  <node id="10045512755" lat="12.9784860" lon="77.5033225"/>
+  <node id="10045512756" lat="12.9784269" lon="77.5035672"/>
+  <node id="10045512757" lat="12.9789948" lon="77.5037117"/>
+  <node id="10045512758" lat="12.9790539" lon="77.5034671"/>
+  <node id="9775573207" lat="12.9816131" lon="77.5188752"/>
+  <node id="9775573208" lat="12.9817271" lon="77.5189619"/>
+  <node id="9775573209" lat="12.9817778" lon="77.5190393"/>
+  <node id="9775573210" lat="12.9816581" lon="77.5191035"/>
+  <node id="9775574175" lat="12.9815355" lon="77.5191911"/>
+  <node id="9775574176" lat="12.9816308" lon="77.5192155"/>
+  <node id="4323398678" lat="12.9797851" lon="77.5363039"/>
+  <node id="4323398679" lat="12.9798687" lon="77.5360424"/>
+  <node id="4323398682" lat="12.9805810" lon="77.5365721"/>
+  <node id="4323398683" lat="12.9806646" lon="77.5363106"/>
+  <node id="2836009571" lat="13.0173933" lon="77.5074014"/>
+  <node id="2836009572" lat="13.0175931" lon="77.5070963"/>
+  <node id="2836009573" lat="13.0176774" lon="77.5075974"/>
+  <node id="2836009574" lat="13.0178772" lon="77.5072922"/>
+  <node id="12594350387" lat="13.0178587" lon="77.5065642"/>
+  <node id="12594350388" lat="13.0173883" lon="77.5073045"/>
+  <node id="12594350389" lat="13.0167219" lon="77.5068619"/>
+  <node id="12594350390" lat="13.0171609" lon="77.5061485"/>
+  <node id="2090832459" lat="13.0114872" lon="77.5385830"/>
+  <node id="2090832460" lat="13.0109997" lon="77.5378306"/>
+  <node id="2090832461" lat="13.0113491" lon="77.5379242"/>
+  <node id="2090832462" lat="13.0104431" lon="77.5382343"/>
+  <node id="2090832463" lat="13.0115595" lon="77.5379325"/>
+  <node id="2090832466" lat="13.0107410" lon="77.5377032"/>
+  <node id="10045512750" lat="13.0111709" lon="77.5378789"/>
+  <node id="11217131521" lat="13.0115026" lon="77.5384364"/>
+  <node id="11811680974" lat="13.0113711" lon="77.5385712"/>
+  <node id="11811680975" lat="13.0112558" lon="77.5385534"/>
+  <node id="11811680976" lat="13.0111415" lon="77.5385296"/>
+  <node id="11811680977" lat="13.0109060" lon="77.5384603"/>
+  <node id="11811680978" lat="13.0107858" lon="77.5384139"/>
+  <node id="11811680979" lat="13.0106684" lon="77.5383606"/>
+  <node id="11811680980" lat="13.0105540" lon="77.5383007"/>
+  <node id="11811680981" lat="13.0110285" lon="77.5384998"/>
+  <node id="10045512743" lat="12.9666080" lon="77.5456640"/>
+  <node id="10045512744" lat="12.9669099" lon="77.5462608"/>
+  <node id="10045512746" lat="12.9668665" lon="77.5455243"/>
+  <node id="13584352153" lat="12.9669073" lon="77.5455447"/>
+  <node id="13584352154" lat="12.9668638" lon="77.5456509"/>
+  <node id="13584352155" lat="12.9669524" lon="77.5462074"/>
+  <node id="13584352156" lat="12.9671239" lon="77.5457671"/>
+  <node id="3770120731" lat="12.9809353" lon="77.5620831"/>
+  <node id="11028992209" lat="12.9809435" lon="77.5623950"/>
+  <node id="11028992210" lat="12.9814577" lon="77.5620687"/>
+  <node id="11028992211" lat="12.9814659" lon="77.5623805"/>
+  <node id="10045512730" lat="12.9698646" lon="77.5914888"/>
+  <node id="10045512731" lat="12.9696488" lon="77.5916133"/>
+  <node id="10045512732" lat="12.9697773" lon="77.5918758"/>
+  <node id="10045512733" lat="12.9701336" lon="77.5918011"/>
+  <node id="3228440088" lat="12.9825227" lon="77.5746729"/>
+  <node id="3228440092" lat="12.9834659" lon="77.5748117"/>
+  <node id="3535631718" lat="12.9816819" lon="77.5747784"/>
+  <node id="3535631722" lat="12.9816979" lon="77.5746613"/>
+  <node id="3535631973" lat="12.9821718" lon="77.5748500"/>
+  <node id="3535631990" lat="12.9822111" lon="77.5746143"/>
+  <node id="3228440086" lat="12.9823318" lon="77.5757211"/>
+  <node id="3228440087" lat="12.9824177" lon="77.5756174"/>
+  <node id="3228440089" lat="12.9826396" lon="77.5760298"/>
+  <node id="3228440090" lat="12.9830978" lon="77.5761184"/>
+  <node id="3228440091" lat="12.9833063" lon="77.5760914"/>
+  <node id="11279910954" lat="12.9831118" lon="77.5761166"/>
+  <node id="4323398811" lat="13.0009481" lon="77.5481300"/>
+  <node id="4323398813" lat="13.0011093" lon="77.5485462"/>
+  <node id="4323398815" lat="13.0013263" lon="77.5484577"/>
+  <node id="7296738219" lat="13.0011651" lon="77.5480415"/>
+  <node id="7296738225" lat="13.0011881" lon="77.5481008"/>
+  <node id="10045512749" lat="13.0010699" lon="77.5480802"/>
+  <node id="6035864543" lat="13.0106910" lon="77.5542865"/>
+  <node id="10215045109" lat="13.0106855" lon="77.5540009"/>
+  <node id="11281292839" lat="13.0103608" lon="77.5542869"/>
+  <node id="11281292840" lat="13.0103642" lon="77.5539837"/>
+  <node id="1096956291" lat="13.0145253" lon="77.5556059"/>
+  <node id="1624836196" lat="13.0145228" lon="77.5554085"/>
+  <node id="9350054899" lat="13.0149688" lon="77.5556058"/>
+  <node id="9350054900" lat="13.0149686" lon="77.5554180"/>
+  <node id="445327545" lat="13.0150174" lon="77.5635166"/>
+  <node id="445327546" lat="13.0151457" lon="77.5633234"/>
+  <node id="445327547" lat="13.0153201" lon="77.5634453"/>
+  <node id="460976089" lat="13.0151421" lon="77.5637760"/>
+  <node id="9077186609" lat="13.0150831" lon="77.5636100"/>
+  <node id="9077186610" lat="13.0150328" lon="77.5636201"/>
+  <node id="7413294320" lat="13.0186714" lon="77.5722457"/>
+  <node id="7413294321" lat="13.0186629" lon="77.5719735"/>
+  <node id="9892036260" lat="12.8749038" lon="77.6120326"/>
+  <node id="9892036261" lat="12.8747838" lon="77.6118667"/>
+  <node id="9892036262" lat="12.8748150" lon="77.6114501"/>
+  <node id="9892036263" lat="12.8752619" lon="77.6114854"/>
+  <node id="9892036264" lat="12.8752199" lon="77.6120460"/>
+  <node id="13368984080" lat="12.8751992" lon="77.6114693"/>
+  <node id="13368984081" lat="12.8749443" lon="77.6114492"/>
+  <node id="13368984082" lat="12.8748829" lon="77.6120527"/>
+  <node id="13368984083" lat="12.8752306" lon="77.6120768"/>
+  <node id="13368984084" lat="12.8752568" lon="77.6115578"/>
+  <node id="11304358269" lat="12.8875903" lon="77.6107076"/>
+  <node id="11305237386" lat="12.8869655" lon="77.6106204"/>
+  <node id="11305237387" lat="12.8869877" lon="77.6110616"/>
+  <node id="11305237388" lat="12.8876179" lon="77.6110283"/>
+  <node id="11722359226" lat="12.8731545" lon="77.6214159"/>
+  <node id="11722359227" lat="12.8732019" lon="77.6216510"/>
+  <node id="11722359267" lat="12.8728392" lon="77.6214118"/>
+  <node id="11722359268" lat="12.8728324" lon="77.6219546"/>
+  <node id="11722359269" lat="12.8731980" lon="77.6219594"/>
+  <node id="11722359270" lat="12.8732048" lon="77.6214166"/>
+  <node id="2836932340" lat="12.8736040" lon="77.6577396"/>
+  <node id="2836932341" lat="12.8736111" lon="77.6582472"/>
+  <node id="2836932342" lat="12.8736998" lon="77.6572848"/>
+  <node id="3559106263" lat="12.8745350" lon="77.6573673"/>
+  <node id="3868712300" lat="12.8736285" lon="77.6576231"/>
+  <node id="3868729207" lat="12.8738283" lon="77.6582851"/>
+  <node id="3868729239" lat="12.8736097" lon="77.6581485"/>
+  <node id="10047988943" lat="12.8741557" lon="77.6573298"/>
+  <node id="10047988944" lat="12.8741382" lon="77.6583391"/>
+  <node id="1471803539" lat="12.8748758" lon="77.6583811"/>
+  <node id="2836932353" lat="12.8748598" lon="77.6574030"/>
+  <node id="2836932354" lat="12.8748633" lon="77.6584656"/>
+  <node id="266267462" lat="12.9036125" lon="77.6502663"/>
+  <node id="266267463" lat="12.9019356" lon="77.6505490"/>
+  <node id="266267465" lat="12.9013149" lon="77.6486036"/>
+  <node id="266267469" lat="12.9034031" lon="77.6487533"/>
+  <node id="1510919326" lat="12.9024331" lon="77.6485521"/>
+  <node id="1510942761" lat="12.9017084" lon="77.6498651"/>
+  <node id="1510942763" lat="12.9018775" lon="77.6503585"/>
+  <node id="10047988945" lat="12.9018578" lon="77.6485786"/>
+  <node id="10047988946" lat="12.9031384" lon="77.6503462"/>
+  <node id="13426099528" lat="12.9032430" lon="77.6503286"/>
+  <node id="13426099533" lat="12.9035938" lon="77.6501311"/>
+  <node id="7298366583" lat="12.9044592" lon="77.6643856"/>
+  <node id="7298366584" lat="12.9047209" lon="77.6641774"/>
+  <node id="7298370285" lat="12.9044242" lon="77.6640433"/>
+  <node id="7298370286" lat="12.9042980" lon="77.6643139"/>
+  <node id="7298370287" lat="12.9043572" lon="77.6643395"/>
+  <node id="4397421851" lat="12.9198835" lon="77.5987694"/>
+  <node id="4397421852" lat="12.9198736" lon="77.5993623"/>
+  <node id="4397421854" lat="12.9201730" lon="77.5993676"/>
+  <node id="4397421855" lat="12.9202877" lon="77.5987766"/>
+  <node id="4397421856" lat="12.9202777" lon="77.5993691"/>
+  <node id="11542884418" lat="12.9199755" lon="77.5993641"/>
+  <node id="1440356365" lat="12.9322196" lon="77.6133697"/>
+  <node id="1440356369" lat="12.9320883" lon="77.6133741"/>
+  <node id="1440356378" lat="12.9331540" lon="77.6128049"/>
+  <node id="1440356384" lat="12.9328098" lon="77.6124655"/>
+  <node id="1448280847" lat="12.9292610" lon="77.6098401"/>
+  <node id="1448280849" lat="12.9290011" lon="77.6098077"/>
+  <node id="1448280858" lat="12.9293128" lon="77.6095251"/>
+  <node id="10047179070" lat="12.9290360" lon="77.6094573"/>
+  <node id="11703743430" lat="12.9321151" lon="77.6133992"/>
+  <node id="5961837342" lat="12.9255612" lon="77.6402454"/>
+  <node id="10129833520" lat="12.9258331" lon="77.6402521"/>
+  <node id="10296378556" lat="12.9256171" lon="77.6402468"/>
+  <node id="5961837340" lat="12.9258211" lon="77.6408516"/>
+  <node id="5961837341" lat="12.9255445" lon="77.6408360"/>
+  <node id="11528250217" lat="12.9404968" lon="77.6072354"/>
+  <node id="11528250218" lat="12.9402777" lon="77.6069981"/>
+  <node id="11528250219" lat="12.9407299" lon="77.6065555"/>
+  <node id="11528250220" lat="12.9409508" lon="77.6068023"/>
+  <node id="4030637045" lat="12.9637006" lon="77.6147500"/>
+  <node id="4030637046" lat="12.9638484" lon="77.6152110"/>
+  <node id="4030637047" lat="12.9639573" lon="77.6146845"/>
+  <node id="4030637048" lat="12.9641543" lon="77.6149976"/>
+  <node id="4030637032" lat="12.9427678" lon="77.6240903"/>
+  <node id="4030637033" lat="12.9429089" lon="77.6243636"/>
+  <node id="4030637035" lat="12.9431603" lon="77.6237344"/>
+  <node id="4030637036" lat="12.9433668" lon="77.6237120"/>
+  <node id="4030637037" lat="12.9435572" lon="77.6239251"/>
+  <node id="3524937755" lat="12.9476008" lon="77.6445753"/>
+  <node id="3524937756" lat="12.9477459" lon="77.6442012"/>
+  <node id="3524937760" lat="12.9479605" lon="77.6447222"/>
+  <node id="3524937762" lat="12.9481055" lon="77.6443481"/>
+  <node id="2268525522" lat="12.9534237" lon="77.6410134"/>
+  <node id="2268525534" lat="12.9540460" lon="77.6413322"/>
+  <node id="4308356537" lat="12.9533736" lon="77.6411471"/>
+  <node id="4308356539" lat="12.9535492" lon="77.6417141"/>
+  <node id="6536382397" lat="12.9540008" lon="77.6416297"/>
+  <node id="1780495215" lat="12.9650922" lon="77.6365040"/>
+  <node id="1780495228" lat="12.9651576" lon="77.6365818"/>
+  <node id="1780495233" lat="12.9651701" lon="77.6364350"/>
+  <node id="1780495244" lat="12.9652356" lon="77.6365128"/>
+  <node id="1366867074" lat="12.9276202" lon="77.6682792"/>
+  <node id="3170092761" lat="12.9275383" lon="77.6677763"/>
+  <node id="3170092762" lat="12.9274134" lon="77.6678161"/>
+  <node id="3170092763" lat="12.9273445" lon="77.6678625"/>
+  <node id="3170092764" lat="12.9273644" lon="77.6682897"/>
+  <node id="11021314565" lat="12.9186538" lon="77.6859714"/>
+  <node id="11021314566" lat="12.9187366" lon="77.6859865"/>
+  <node id="11553915229" lat="12.9185406" lon="77.6862641"/>
+  <node id="11553915230" lat="12.9184216" lon="77.6863740"/>
+  <node id="4030637025" lat="12.9266790" lon="77.6794529"/>
+  <node id="11021314553" lat="12.9266802" lon="77.6794556"/>
+  <node id="11021314556" lat="12.9242072" lon="77.6796518"/>
+  <node id="11021314557" lat="12.9244356" lon="77.6796667"/>
+  <node id="4030637026" lat="12.9267856" lon="77.6798266"/>
+  <node id="11021314555" lat="12.9241844" lon="77.6800217"/>
+  <node id="11021314558" lat="12.9244127" lon="77.6800366"/>
+  <node id="10996457441" lat="12.9181803" lon="77.6869102"/>
+  <node id="11021314567" lat="12.9186197" lon="77.6869217"/>
+  <node id="9525461679" lat="12.9267197" lon="77.6909587"/>
+  <node id="11229768613" lat="12.9267577" lon="77.6904136"/>
+  <node id="3659863356" lat="12.9270831" lon="77.6794716"/>
+  <node id="4030637028" lat="12.9272893" lon="77.6798274"/>
+  <node id="11021314549" lat="12.9276757" lon="77.6821349"/>
+  <node id="11021314550" lat="12.9276957" lon="77.6822193"/>
+  <node id="11021314551" lat="12.9282264" lon="77.6820557"/>
+  <node id="11021314552" lat="12.9281573" lon="77.6818422"/>
+  <node id="11229768611" lat="12.9271493" lon="77.6909892"/>
+  <node id="11229768612" lat="12.9271874" lon="77.6904454"/>
+  <node id="11232355990" lat="12.9271832" lon="77.6905051"/>
+  <node id="9748194157" lat="12.9310163" lon="77.6962965"/>
+  <node id="9748194158" lat="12.9309394" lon="77.6970003"/>
+  <node id="9748194159" lat="12.9309064" lon="77.6972648"/>
+  <node id="9748194160" lat="12.9297526" lon="77.6968218"/>
+  <node id="9748194161" lat="12.9299083" lon="77.6962084"/>
+  <node id="9748194162" lat="12.9305594" lon="77.6963990"/>
+  <node id="9748194163" lat="12.9305809" lon="77.6961943"/>
+  <node id="9759551596" lat="12.9309326" lon="77.6962722"/>
+  <node id="9761000046" lat="12.9305367" lon="77.6971484"/>
+  <node id="9761000047" lat="12.9305984" lon="77.6970578"/>
+  <node id="9779573284" lat="12.9301120" lon="77.6962497"/>
+  <node id="9781262642" lat="12.9300938" lon="77.6969170"/>
+  <node id="10047988937" lat="12.9304759" lon="77.6963766"/>
+  <node id="10047988938" lat="12.9303974" lon="77.6970018"/>
+  <node id="9796653744" lat="12.9387707" lon="77.6887026"/>
+  <node id="11232355709" lat="12.9389327" lon="77.6892212"/>
+  <node id="11232355710" lat="12.9392665" lon="77.6891223"/>
+  <node id="11232355711" lat="12.9391185" lon="77.6886151"/>
+  <node id="2412938561" lat="12.9376230" lon="77.6973613"/>
+  <node id="2412938593" lat="12.9374196" lon="77.6973039"/>
+  <node id="2412938599" lat="12.9372081" lon="77.6972742"/>
+  <node id="2412938605" lat="12.9374252" lon="77.6972851"/>
+  <node id="9525461652" lat="12.9375506" lon="77.6975972"/>
+  <node id="9779606608" lat="12.9382758" lon="77.6977191"/>
+  <node id="9779606609" lat="12.9385562" lon="77.6971491"/>
+  <node id="9779606610" lat="12.9375538" lon="77.6968539"/>
+  <node id="9821378601" lat="12.9380267" lon="77.6969932"/>
+  <node id="11232355718" lat="12.9370319" lon="77.6974587"/>
+  <node id="11232355719" lat="12.9370700" lon="77.6972830"/>
+  <node id="7847428617" lat="12.9436209" lon="77.6673042"/>
+  <node id="7847428618" lat="12.9436616" lon="77.6680300"/>
+  <node id="7847428619" lat="12.9429835" lon="77.6680700"/>
+  <node id="7847428620" lat="12.9429428" lon="77.6673442"/>
+  <node id="3297434365" lat="12.9554552" lon="77.6543980"/>
+  <node id="4127793845" lat="12.9554303" lon="77.6544863"/>
+  <node id="13247161013" lat="12.9553998" lon="77.6543773"/>
+  <node id="13247161014" lat="12.9553481" lon="77.6545154"/>
+  <node id="13247161015" lat="12.9554204" lon="77.6545375"/>
+  <node id="1758059726" lat="12.9629577" lon="77.6491558"/>
+  <node id="1758059729" lat="12.9630261" lon="77.6489263"/>
+  <node id="1758059740" lat="12.9626788" lon="77.6491813"/>
+  <node id="1758059764" lat="12.9627879" lon="77.6487987"/>
+  <node id="13368984093" lat="12.9647183" lon="77.6533735"/>
+  <node id="13368984094" lat="12.9647026" lon="77.6535639"/>
+  <node id="13368984095" lat="12.9646215" lon="77.6535961"/>
+  <node id="13368984098" lat="12.9649457" lon="77.6533601"/>
+  <node id="13368984096" lat="12.9646424" lon="77.6540574"/>
+  <node id="13368984097" lat="12.9649457" lon="77.6540494"/>
+  <node id="11232355714" lat="12.9409215" lon="77.6904230"/>
+  <node id="11232355715" lat="12.9408133" lon="77.6909540"/>
+  <node id="11232355716" lat="12.9405034" lon="77.6908875"/>
+  <node id="11232355717" lat="12.9406116" lon="77.6903565"/>
+  <node id="3504281601" lat="12.9480794" lon="77.6982911"/>
+  <node id="6140443268" lat="12.9478860" lon="77.6987123"/>
+  <node id="6140443269" lat="12.9475305" lon="77.6985862"/>
+  <node id="6140443270" lat="12.9476076" lon="77.6983891"/>
+  <node id="6140443271" lat="12.9476187" lon="77.6982676"/>
+  <node id="596453191" lat="12.9719492" lon="77.6049710"/>
+  <node id="1770459057" lat="12.9711859" lon="77.6052260"/>
+  <node id="3740962159" lat="12.9710534" lon="77.6048859"/>
+  <node id="6527314791" lat="12.9715799" lon="77.6051047"/>
+  <node id="9633893499" lat="12.9717029" lon="77.6050593"/>
+  <node id="10046913349" lat="12.9714301" lon="77.6046604"/>
+  <node id="10753340329" lat="12.9716793" lon="77.6045548"/>
+  <node id="10753340330" lat="12.9717077" lon="77.6046179"/>
+  <node id="10753340331" lat="12.9718212" lon="77.6045757"/>
+  <node id="13367794617" lat="12.9710767" lon="77.6048134"/>
+  <node id="3343241036" lat="12.9752487" lon="77.6041765"/>
+  <node id="3343241041" lat="12.9752918" lon="77.6041704"/>
+  <node id="9981998137" lat="12.9752418" lon="77.6042056"/>
+  <node id="9981998138" lat="12.9754756" lon="77.6042570"/>
+  <node id="9981998139" lat="12.9754847" lon="77.6042164"/>
+  <node id="3730964425" lat="12.9738885" lon="77.6138027"/>
+  <node id="3730964426" lat="12.9739395" lon="77.6136334"/>
+  <node id="3730964431" lat="12.9741241" lon="77.6138774"/>
+  <node id="3730964432" lat="12.9741751" lon="77.6137081"/>
+  <node id="7255929414" lat="12.9923847" lon="77.5995511"/>
+  <node id="7255929416" lat="12.9923111" lon="77.5989901"/>
+  <node id="7255929417" lat="12.9921259" lon="77.5994385"/>
+  <node id="7255929415" lat="12.9925699" lon="77.5991027"/>
+  <node id="8928917151" lat="13.0022117" lon="77.6191082"/>
+  <node id="8928917152" lat="13.0016205" lon="77.6189122"/>
+  <node id="8928917153" lat="13.0015406" lon="77.6191661"/>
+  <node id="8928917154" lat="13.0017608" lon="77.6192391"/>
+  <node id="8928917155" lat="13.0018027" lon="77.6191061"/>
+  <node id="8928917156" lat="13.0021737" lon="77.6192291"/>
+  <node id="10047179064" lat="12.9980510" lon="77.6238252"/>
+  <node id="10047179065" lat="12.9979344" lon="77.6238252"/>
+  <node id="10047179066" lat="12.9978344" lon="77.6238061"/>
+  <node id="10047179067" lat="12.9976482" lon="77.6235878"/>
+  <node id="10047179068" lat="12.9978246" lon="77.6233746"/>
+  <node id="10047179069" lat="12.9981049" lon="77.6237940"/>
+  <node id="11096903666" lat="13.0008171" lon="77.6267406"/>
+  <node id="11096903667" lat="13.0007108" lon="77.6265814"/>
+  <node id="11096903668" lat="13.0008522" lon="77.6266429"/>
+  <node id="12530895473" lat="12.9779792" lon="77.6557419"/>
+  <node id="12530895474" lat="12.9778524" lon="77.6561254"/>
+  <node id="12530895475" lat="12.9781020" lon="77.6562086"/>
+  <node id="12530895476" lat="12.9782275" lon="77.6559752"/>
+  <node id="12530895477" lat="12.9782811" lon="77.6558384"/>
+  <node id="5581917474" lat="12.9680275" lon="77.6612956"/>
+  <node id="5581917475" lat="12.9678444" lon="77.6625976"/>
+  <node id="5581917476" lat="12.9687026" lon="77.6627005"/>
+  <node id="5581917477" lat="12.9690542" lon="77.6624744"/>
+  <node id="5581917478" lat="12.9694100" lon="77.6618171"/>
+  <node id="5581917479" lat="12.9688362" lon="77.6607459"/>
+  <node id="10047988939" lat="12.9684400" lon="77.6620834"/>
+  <node id="10047988940" lat="12.9693065" lon="77.6616239"/>
+  <node id="13368984099" lat="12.9686416" lon="77.6624688"/>
+  <node id="13368984100" lat="12.9679254" lon="77.6627371"/>
+  <node id="13368993101" lat="12.9685161" lon="77.6622301"/>
+  <node id="13368993102" lat="12.9680169" lon="77.6628551"/>
+  <node id="3298494106" lat="12.9772965" lon="77.6650167"/>
+  <node id="3538120750" lat="12.9771730" lon="77.6647431"/>
+  <node id="3538120974" lat="12.9774101" lon="77.6643309"/>
+  <node id="3538121125" lat="12.9776736" lon="77.6645157"/>
+  <node id="13275766843" lat="12.9772636" lon="77.6645287"/>
+  <node id="1925224112" lat="12.9916654" lon="77.6577135"/>
+  <node id="5519597369" lat="12.9912910" lon="77.6543220"/>
+  <node id="5519597370" lat="12.9913490" lon="77.6544893"/>
+  <node id="5519597371" lat="12.9914236" lon="77.6546452"/>
+  <node id="5519597372" lat="12.9917336" lon="77.6545126"/>
+  <node id="5519597373" lat="12.9913739" lon="77.6536849"/>
+  <node id="5519597374" lat="12.9911445" lon="77.6537860"/>
+  <node id="11049701602" lat="12.9920878" lon="77.6574633"/>
+  <node id="11049701603" lat="12.9922280" lon="77.6574949"/>
+  <node id="11049706908" lat="12.9922013" lon="77.6574736"/>
+  <node id="11049706909" lat="12.9921291" lon="77.6574541"/>
+  <node id="11049706910" lat="12.9921660" lon="77.6574594"/>
+  <node id="11126772999" lat="12.9918995" lon="77.6581813"/>
+  <node id="11126773004" lat="12.9924705" lon="77.6578674"/>
+  <node id="11453239101" lat="12.9671034" lon="77.6952977"/>
+  <node id="11453239102" lat="12.9667792" lon="77.6953407"/>
+  <node id="11453239103" lat="12.9666760" lon="77.6947010"/>
+  <node id="11453239104" lat="12.9670354" lon="77.6947103"/>
+  <node id="12954010134" lat="12.9858848" lon="77.6752780"/>
+  <node id="13271650012" lat="12.9859253" lon="77.6751007"/>
+  <node id="3677872064" lat="12.9860711" lon="77.6745884"/>
+  <node id="3677872066" lat="12.9860292" lon="77.6745589"/>
+  <node id="3677872070" lat="12.9861848" lon="77.6739581"/>
+  <node id="3677872072" lat="12.9866447" lon="77.6741163"/>
+  <node id="3677872073" lat="12.9866082" lon="77.6743470"/>
+  <node id="3677872074" lat="12.9866317" lon="77.6742439"/>
+  <node id="13271647397" lat="12.9863255" lon="77.6747875"/>
+  <node id="13271647398" lat="12.9859882" lon="77.6753132"/>
+  <node id="9781379800" lat="12.9848528" lon="77.6925657"/>
+  <node id="11786209025" lat="12.9844009" lon="77.6925110"/>
+  <node id="11786209026" lat="12.9844103" lon="77.6924290"/>
+  <node id="11786209027" lat="12.9848964" lon="77.6924878"/>
+  <node id="11786209028" lat="12.9848869" lon="77.6925698"/>
+  <node id="2836933113" lat="12.9843339" lon="77.6936804"/>
+  <node id="2836933115" lat="12.9845413" lon="77.6942676"/>
+  <node id="2836933118" lat="12.9847971" lon="77.6934390"/>
+  <node id="2836933122" lat="12.9849489" lon="77.6938401"/>
+  <node id="12586987309" lat="13.0053787" lon="77.6858427"/>
+  <node id="11773801211" lat="12.9955991" lon="77.6897450"/>
+  <node id="11773801212" lat="12.9952211" lon="77.6895511"/>
+  <node id="11773801213" lat="12.9953280" lon="77.6893317"/>
+  <node id="11773801214" lat="12.9957059" lon="77.6895256"/>
+  <node id="7448001434" lat="13.0049277" lon="77.6873536"/>
+  <node id="12586987312" lat="13.0043209" lon="77.6865045"/>
+  <node id="13368653180" lat="13.0046248" lon="77.6867997"/>
+  <node id="13368653181" lat="13.0045124" lon="77.6868523"/>
+  <node id="7448001435" lat="13.0058606" lon="77.6867133"/>
+  <node id="7232663685" lat="12.9304198" lon="77.7224001"/>
+  <node id="12334829681" lat="12.9309266" lon="77.7226702"/>
+  <node id="12432995648" lat="12.9306726" lon="77.7238002"/>
+  <node id="12432995649" lat="12.9310381" lon="77.7237279"/>
+  <node id="12432995650" lat="12.9314562" lon="77.7229525"/>
+  <node id="2718865331" lat="12.9323192" lon="77.7316447"/>
+  <node id="7157934119" lat="12.9326232" lon="77.7317078"/>
+  <node id="6795621720" lat="12.9321673" lon="77.7323752"/>
+  <node id="7157934118" lat="12.9325829" lon="77.7324442"/>
+  <node id="11506520708" lat="12.9410733" lon="77.7190671"/>
+  <node id="11506520710" lat="12.9416762" lon="77.7191399"/>
+  <node id="11506520711" lat="12.9416161" lon="77.7189146"/>
+  <node id="11506520709" lat="12.9411334" lon="77.7192925"/>
+  <node id="1371859154" lat="12.9639872" lon="77.7222438"/>
+  <node id="11832800758" lat="12.9639895" lon="77.7222636"/>
+  <node id="11832800762" lat="12.9636413" lon="77.7225959"/>
+  <node id="11832800763" lat="12.9640308" lon="77.7226160"/>
+  <node id="11832800764" lat="12.9635865" lon="77.7223022"/>
+  <node id="12956091246" lat="12.9469274" lon="77.7469455"/>
+  <node id="12956091247" lat="12.9469366" lon="77.7469766"/>
+  <node id="12956091248" lat="12.9468902" lon="77.7469911"/>
+  <node id="12956091249" lat="12.9468809" lon="77.7469600"/>
+  <node id="12027575960" lat="12.9459437" lon="77.7649051"/>
+  <node id="12027575963" lat="12.9465180" lon="77.7649736"/>
+  <node id="12027575961" lat="12.9459566" lon="77.7655644"/>
+  <node id="12027575962" lat="12.9465042" lon="77.7655629"/>
+  <node id="11892732347" lat="12.9688771" lon="77.7066900"/>
+  <node id="11892732348" lat="12.9687441" lon="77.7069288"/>
+  <node id="11892732349" lat="12.9688226" lon="77.7069749"/>
+  <node id="11892732350" lat="12.9689556" lon="77.7067361"/>
+  <node id="9828082733" lat="12.9677614" lon="77.7220991"/>
+  <node id="9828082734" lat="12.9673719" lon="77.7221239"/>
+  <node id="9828082735" lat="12.9673334" lon="77.7216746"/>
+  <node id="9828082736" lat="12.9676359" lon="77.7216679"/>
+  <node id="9828082737" lat="12.9677607" lon="77.7217215"/>
+  <node id="1918868123" lat="12.9765555" lon="77.7171958"/>
+  <node id="1918868166" lat="12.9771704" lon="77.7181478"/>
+  <node id="1918868241" lat="12.9772320" lon="77.7172656"/>
+  <node id="1918868248" lat="12.9764520" lon="77.7181007"/>
+  <node id="4159754057" lat="12.9765202" lon="77.7174715"/>
+  <node id="2836933154" lat="12.9886168" lon="77.7040153"/>
+  <node id="2836933156" lat="12.9886919" lon="77.7034930"/>
+  <node id="2836933159" lat="12.9888973" lon="77.7040262"/>
+  <node id="2836933160" lat="12.9889147" lon="77.7035063"/>
+  <node id="2836933161" lat="12.9889629" lon="77.7035941"/>
+  <node id="289208544" lat="12.9846384" lon="77.7363583"/>
+  <node id="1384847875" lat="12.9843527" lon="77.7363166"/>
+  <node id="1387699155" lat="12.9843159" lon="77.7365483"/>
+  <node id="1534272817" lat="12.9843278" lon="77.7371342"/>
+  <node id="11050748213" lat="12.9849988" lon="77.7359051"/>
+  <node id="11050748214" lat="12.9848394" lon="77.7359138"/>
+  <node id="12999125393" lat="12.9846205" lon="77.7364187"/>
+  <node id="12999125394" lat="12.9847656" lon="77.7364442"/>
+  <node id="12999125395" lat="12.9849452" lon="77.7371464"/>
+  <node id="4641627199" lat="12.9899891" lon="77.7263285"/>
+  <node id="11683268359" lat="12.9898949" lon="77.7266918"/>
+  <node id="11683268360" lat="12.9894020" lon="77.7264563"/>
+  <node id="11683268361" lat="12.9894875" lon="77.7261142"/>
+  <node id="12102898473" lat="12.9897344" lon="77.7266160"/>
+  <node id="11049841391" lat="12.9885397" lon="77.7490371"/>
+  <node id="11049841392" lat="12.9885669" lon="77.7490692"/>
+  <node id="11049841393" lat="12.9885647" lon="77.7493364"/>
+  <node id="11049841394" lat="12.9881811" lon="77.7493331"/>
+  <node id="11049841395" lat="12.9881835" lon="77.7490341"/>
+  <node id="6980128777" lat="12.9963955" lon="77.7028467"/>
+  <node id="11773916157" lat="12.9965411" lon="77.7027882"/>
+  <node id="11773916158" lat="12.9965321" lon="77.7028882"/>
+  <node id="11773916159" lat="12.9965501" lon="77.7026872"/>
+  <node id="11773916160" lat="12.9964037" lon="77.7026785"/>
+  <node id="1403889413" lat="12.9926023" lon="77.7121022"/>
+  <node id="1403889416" lat="12.9928337" lon="77.7112063"/>
+  <node id="1403889417" lat="12.9929773" lon="77.7104186"/>
+  <node id="1403889418" lat="12.9930212" lon="77.7091769"/>
+  <node id="1403889419" lat="12.9932527" lon="77.7125712"/>
+  <node id="1403889421" lat="12.9937599" lon="77.7092767"/>
+  <node id="1403889426" lat="12.9949166" lon="77.7105388"/>
+  <node id="1403889427" lat="12.9949299" lon="77.7092808"/>
+  <node id="1403889434" lat="12.9961060" lon="77.7105930"/>
+  <node id="1403889435" lat="12.9964048" lon="77.7109086"/>
+  <node id="1403889436" lat="12.9964107" lon="77.7105990"/>
+  <node id="1403889438" lat="12.9977921" lon="77.7114984"/>
+  <node id="1403889447" lat="12.9974419" lon="77.7109267"/>
+  <node id="1403889423" lat="12.9937191" lon="77.7131455"/>
+  <node id="1403889429" lat="12.9955592" lon="77.7135801"/>
+  <node id="1403889430" lat="12.9952121" lon="77.7135156"/>
+  <node id="1403889437" lat="12.9971018" lon="77.7141652"/>
+  <node id="2835792693" lat="12.9941371" lon="77.7134449"/>
+  <node id="2835792700" lat="12.9955845" lon="77.7135265"/>
+  <node id="2835793401" lat="12.9957272" lon="77.7135955"/>
+  <node id="2835793402" lat="12.9958699" lon="77.7137189"/>
+  <node id="2835793403" lat="12.9959759" lon="77.7137399"/>
+  <node id="2835793406" lat="12.9961512" lon="77.7139428"/>
+  <node id="2835793409" lat="12.9967809" lon="77.7139972"/>
+  <node id="12453246982" lat="12.9934151" lon="77.7127711"/>
+  <node id="2835793404" lat="12.9960832" lon="77.7275095"/>
+  <node id="2835793407" lat="12.9962081" lon="77.7282085"/>
+  <node id="2835793410" lat="12.9970891" lon="77.7273898"/>
+  <node id="2835793412" lat="12.9972078" lon="77.7280417"/>
+  <node id="13347450021" lat="12.9969722" lon="77.7280810"/>
+  <node id="1584707760" lat="12.9953751" lon="77.7481546"/>
+  <node id="1584707875" lat="12.9953549" lon="77.7480350"/>
+  <node id="1584708115" lat="12.9957693" lon="77.7480846"/>
+  <node id="1585466543" lat="12.9952743" lon="77.7475570"/>
+  <node id="1585466573" lat="12.9956759" lon="77.7474858"/>
+  <node id="13731882255" lat="12.9726290" lon="77.7603207"/>
+  <node id="13731882256" lat="12.9725143" lon="77.7607767"/>
+  <node id="13731882257" lat="12.9721531" lon="77.7606708"/>
+  <node id="13731882258" lat="12.9719183" lon="77.7617470"/>
+  <node id="13731882259" lat="12.9713590" lon="77.7614004"/>
+  <node id="13731882260" lat="12.9719151" lon="77.7604443"/>
+  <node id="13731882261" lat="12.9721789" lon="77.7603622"/>
+  <node id="9967143498" lat="13.0343676" lon="77.4998451"/>
+  <node id="9967143499" lat="13.0342696" lon="77.5005622"/>
+  <node id="9967143500" lat="13.0345742" lon="77.5006060"/>
+  <node id="9967143501" lat="13.0346721" lon="77.4998889"/>
+  <node id="483411133" lat="13.0303578" lon="77.5252819"/>
+  <node id="483411135" lat="13.0297784" lon="77.5271026"/>
+  <node id="483411138" lat="13.0276126" lon="77.5263765"/>
+  <node id="483411139" lat="13.0277948" lon="77.5258040"/>
+  <node id="483411140" lat="13.0281920" lon="77.5245557"/>
+  <node id="6313723313" lat="13.0284584" lon="77.5237187"/>
+  <node id="6313723314" lat="13.0273285" lon="77.5233398"/>
+  <node id="10023940316" lat="13.0281831" lon="77.5245837"/>
+  <node id="10047988948" lat="13.0299606" lon="77.5265301"/>
+  <node id="11887013658" lat="13.0263746" lon="77.5259614"/>
+  <node id="11887013659" lat="13.0267525" lon="77.5248340"/>
+  <node id="11887013660" lat="13.0264259" lon="77.5247133"/>
+  <node id="11887013661" lat="13.0269537" lon="77.5236592"/>
+  <node id="11887013662" lat="13.0271314" lon="77.5237557"/>
+  <node id="11887013665" lat="13.0295495" lon="77.5250109"/>
+  <node id="4323335084" lat="13.0281798" lon="77.5334702"/>
+  <node id="4323335086" lat="13.0282472" lon="77.5333511"/>
+  <node id="4323335791" lat="13.0284861" lon="77.5336528"/>
+  <node id="4323335792" lat="13.0285535" lon="77.5335337"/>
+  <node id="3228461820" lat="13.0432013" lon="77.5263206"/>
+  <node id="3228461822" lat="13.0434963" lon="77.5265466"/>
+  <node id="3228461823" lat="13.0435678" lon="77.5262784"/>
+  <node id="3228461824" lat="13.0436338" lon="77.5260203"/>
+  <node id="3228461825" lat="13.0436308" lon="77.5265593"/>
+  <node id="3228461826" lat="13.0436836" lon="77.5262531"/>
+  <node id="3228461827" lat="13.0436967" lon="77.5261156"/>
+  <node id="3228461828" lat="13.0437091" lon="77.5260626"/>
+  <node id="3228461829" lat="13.0437085" lon="77.5256000"/>
+  <node id="3228461830" lat="13.0437245" lon="77.5262382"/>
+  <node id="3228461831" lat="13.0437433" lon="77.5256237"/>
+  <node id="3228461832" lat="13.0437483" lon="77.5259930"/>
+  <node id="3228461833" lat="13.0437650" lon="77.5259221"/>
+  <node id="3228461834" lat="13.0437668" lon="77.5260323"/>
+  <node id="3228461835" lat="13.0440541" lon="77.5260472"/>
+  <node id="3228461837" lat="13.0440071" lon="77.5259890"/>
+  <node id="11048965404" lat="13.0439879" lon="77.5263131"/>
+  <node id="11048990951" lat="13.0436125" lon="77.5265333"/>
+  <node id="11048990952" lat="13.0439084" lon="77.5266325"/>
+  <node id="419641821" lat="13.0353762" lon="77.5312965"/>
+  <node id="4323335197" lat="13.0357205" lon="77.5314702"/>
+  <node id="4323335824" lat="13.0352843" lon="77.5315992"/>
+  <node id="4323335826" lat="13.0354696" lon="77.5316647"/>
+  <node id="4323335828" lat="13.0356764" lon="77.5313968"/>
+  <node id="11891699095" lat="13.0530645" lon="77.4987414"/>
+  <node id="11891699096" lat="13.0528607" lon="77.4992698"/>
+  <node id="11891699097" lat="13.0534499" lon="77.4991532"/>
+  <node id="11891699098" lat="13.0534526" lon="77.4988514"/>
+  <node id="4323335261" lat="13.0612262" lon="77.5064848"/>
+  <node id="4323335262" lat="13.0612392" lon="77.5066068"/>
+  <node id="4323335264" lat="13.0613594" lon="77.5057459"/>
+  <node id="4323335267" lat="13.0617435" lon="77.5061790"/>
+  <node id="4323335268" lat="13.0617709" lon="77.5062715"/>
+  <node id="4323335269" lat="13.0618245" lon="77.5058893"/>
+  <node id="4323335270" lat="13.0618519" lon="77.5061146"/>
+  <node id="443726393" lat="13.0442942" lon="77.5534512"/>
+  <node id="443726394" lat="13.0444100" lon="77.5536791"/>
+  <node id="443726395" lat="13.0442457" lon="77.5538288"/>
+  <node id="598220495" lat="13.0440866" lon="77.5543137"/>
+  <node id="598220496" lat="13.0439378" lon="77.5537774"/>
+  <node id="2836933361" lat="13.0444070" lon="77.5540724"/>
+  <node id="598947932" lat="13.0379044" lon="77.5583793"/>
+  <node id="598947934" lat="13.0379955" lon="77.5589909"/>
+  <node id="2845939113" lat="13.0382683" lon="77.5589688"/>
+  <node id="13713944709" lat="13.0370877" lon="77.5576650"/>
+  <node id="13713944710" lat="13.0371920" lon="77.5592547"/>
+  <node id="13713944711" lat="13.0363449" lon="77.5586902"/>
+  <node id="13713944712" lat="13.0363101" lon="77.5577363"/>
+  <node id="1464771640" lat="13.0371526" lon="77.5663313"/>
+  <node id="1464771641" lat="13.0364961" lon="77.5667267"/>
+  <node id="1464771642" lat="13.0364424" lon="77.5665545"/>
+  <node id="1464771643" lat="13.0368773" lon="77.5665734"/>
+  <node id="1464771644" lat="13.0369692" lon="77.5660878"/>
+  <node id="598947933" lat="13.0384708" lon="77.5583141"/>
+  <node id="598947935" lat="13.0385217" lon="77.5587156"/>
+  <node id="7413294322" lat="13.0190524" lon="77.5719607"/>
+  <node id="7413294323" lat="13.0190608" lon="77.5722329"/>
+  <node id="7413281925" lat="13.0222335" lon="77.5761835"/>
+  <node id="7413281926" lat="13.0222454" lon="77.5766508"/>
+  <node id="7413281927" lat="13.0227400" lon="77.5766375"/>
+  <node id="7413281928" lat="13.0227281" lon="77.5761702"/>
+  <node id="599229283" lat="13.0261542" lon="77.5810832"/>
+  <node id="2845939001" lat="13.0253523" lon="77.5813114"/>
+  <node id="2845939003" lat="13.0255759" lon="77.5811153"/>
+  <node id="2845939005" lat="13.0258033" lon="77.5810482"/>
+  <node id="12985049236" lat="13.0255125" lon="77.5811550"/>
+  <node id="2845939006" lat="13.0260479" lon="77.5815474"/>
+  <node id="2845939037" lat="13.0298888" lon="77.5826585"/>
+  <node id="2845939038" lat="13.0298983" lon="77.5819376"/>
+  <node id="2845939040" lat="13.0300261" lon="77.5826604"/>
+  <node id="2845939041" lat="13.0300265" lon="77.5826282"/>
+  <node id="2845939044" lat="13.0302118" lon="77.5828174"/>
+  <node id="2845939045" lat="13.0302142" lon="77.5826308"/>
+  <node id="2845939046" lat="13.0302234" lon="77.5819561"/>
+  <node id="2845939048" lat="13.0304697" lon="77.5819300"/>
+  <node id="2845939050" lat="13.0305145" lon="77.5828216"/>
+  <node id="2845939051" lat="13.0305160" lon="77.5826731"/>
+  <node id="2845939053" lat="13.0309235" lon="77.5827789"/>
+  <node id="2845939056" lat="13.0311385" lon="77.5819423"/>
+  <node id="2845939230" lat="13.0499473" lon="77.5471560"/>
+  <node id="2845939232" lat="13.0502235" lon="77.5474946"/>
+  <node id="2845939233" lat="13.0503892" lon="77.5467959"/>
+  <node id="2845939235" lat="13.0506474" lon="77.5471530"/>
+  <node id="4323335243" lat="13.0541542" lon="77.5610592"/>
+  <node id="4323335244" lat="13.0541698" lon="77.5615517"/>
+  <node id="4323335245" lat="13.0542313" lon="77.5608991"/>
+  <node id="4323335246" lat="13.0542363" lon="77.5610564"/>
+  <node id="4323335248" lat="13.0544215" lon="77.5608928"/>
+  <node id="4323335249" lat="13.0544420" lon="77.5615426"/>
+  <node id="3895109684" lat="13.0504264" lon="77.5809705"/>
+  <node id="3895109685" lat="13.0505512" lon="77.5810573"/>
+  <node id="3895109687" lat="13.0505881" lon="77.5807254"/>
+  <node id="3895109688" lat="13.0507129" lon="77.5808122"/>
+  <node id="2845939201" lat="13.0451423" lon="77.5830481"/>
+  <node id="2845939202" lat="13.0451524" lon="77.5828669"/>
+  <node id="2845939206" lat="13.0454571" lon="77.5830665"/>
+  <node id="2845939207" lat="13.0454671" lon="77.5828853"/>
+  <node id="2845939325" lat="13.0660256" lon="77.5809310"/>
+  <node id="2845939329" lat="13.0663913" lon="77.5814811"/>
+  <node id="3529615941" lat="13.0702042" lon="77.5809583"/>
+  <node id="3529615942" lat="13.0702228" lon="77.5807716"/>
+  <node id="3529615943" lat="13.0702237" lon="77.5810607"/>
+  <node id="3529615945" lat="13.0702563" lon="77.5809479"/>
+  <node id="3529615986" lat="13.0705548" lon="77.5807051"/>
+  <node id="3529615991" lat="13.0705706" lon="77.5807883"/>
+  <node id="3529616000" lat="13.0706048" lon="77.5807815"/>
+  <node id="3529616006" lat="13.0706419" lon="77.5809769"/>
+  <node id="533577239" lat="13.0685472" lon="77.5880087"/>
+  <node id="2108242641" lat="13.0646910" lon="77.5828145"/>
+  <node id="2108242645" lat="13.0651535" lon="77.5831666"/>
+  <node id="12651750813" lat="13.0684083" lon="77.5880563"/>
+  <node id="8911923949" lat="13.0689010" lon="77.5883950"/>
+  <node id="9851292476" lat="13.0682027" lon="77.5884197"/>
+  <node id="9851292477" lat="13.0685526" lon="77.5887778"/>
+  <node id="2845939370" lat="13.0722151" lon="77.5290150"/>
+  <node id="2845939372" lat="13.0723472" lon="77.5283881"/>
+  <node id="2845939378" lat="13.0726100" lon="77.5290488"/>
+  <node id="2845939381" lat="13.0727134" lon="77.5289787"/>
+  <node id="2845939387" lat="13.0728831" lon="77.5289587"/>
+  <node id="2845939390" lat="13.0729768" lon="77.5283859"/>
+  <node id="2845939391" lat="13.0730002" lon="77.5288966"/>
+  <node id="2845939396" lat="13.0731738" lon="77.5288946"/>
+  <node id="2845939398" lat="13.0733865" lon="77.5283038"/>
+  <node id="3895109769" lat="13.0981989" lon="77.5699340"/>
+  <node id="3895109770" lat="13.0982850" lon="77.5707656"/>
+  <node id="3895109776" lat="13.0990504" lon="77.5698678"/>
+  <node id="3895109777" lat="13.0991195" lon="77.5707072"/>
+  <node id="3895109813" lat="13.1091417" lon="77.5779258"/>
+  <node id="3895109814" lat="13.1091725" lon="77.5768197"/>
+  <node id="3895109817" lat="13.1093918" lon="77.5779318"/>
+  <node id="3895109818" lat="13.1094239" lon="77.5767963"/>
+  <node id="10739658453" lat="13.1091849" lon="77.5779268"/>
+  <node id="3895109792" lat="13.1033962" lon="77.5853790"/>
+  <node id="3895109793" lat="13.1034330" lon="77.5860970"/>
+  <node id="3895109796" lat="13.1035614" lon="77.5852060"/>
+  <node id="3895109797" lat="13.1037209" lon="77.5852056"/>
+  <node id="3895109798" lat="13.1038272" lon="77.5860739"/>
+  <node id="3895109805" lat="13.1067634" lon="77.5848402"/>
+  <node id="3895109806" lat="13.1069978" lon="77.5853821"/>
+  <node id="3895109808" lat="13.1074066" lon="77.5845470"/>
+  <node id="3895109809" lat="13.1076409" lon="77.5850888"/>
+  <node id="2836933532" lat="13.1137096" lon="77.5802498"/>
+  <node id="2836933534" lat="13.1138202" lon="77.5802214"/>
+  <node id="2836933537" lat="13.1139658" lon="77.5801230"/>
+  <node id="2836933538" lat="13.1140598" lon="77.5799678"/>
+  <node id="2836933539" lat="13.1140330" lon="77.5795067"/>
+  <node id="2836933540" lat="13.1140709" lon="77.5798731"/>
+  <node id="2836933546" lat="13.1149643" lon="77.5791096"/>
+  <node id="2836933550" lat="13.1154810" lon="77.5814062"/>
+  <node id="6274088854" lat="13.1162572" lon="77.5814157"/>
+  <node id="6274088859" lat="13.1151435" lon="77.5814259"/>
+  <node id="2836933533" lat="13.1137314" lon="77.5822353"/>
+  <node id="2836933549" lat="13.1154739" lon="77.5845117"/>
+  <node id="6274088855" lat="13.1166530" lon="77.5824312"/>
+  <node id="6274088856" lat="13.1157259" lon="77.5828121"/>
+  <node id="6274088857" lat="13.1153302" lon="77.5817966"/>
+  <node id="6274088858" lat="13.1151903" lon="77.5821903"/>
+  <node id="11651671185" lat="13.1154481" lon="77.5844373"/>
+  <node id="11651671186" lat="13.1147874" lon="77.5846782"/>
+  <node id="11651671187" lat="13.1143197" lon="77.5833261"/>
+  <node id="11651671188" lat="13.1148204" lon="77.5831436"/>
+  <node id="11651671189" lat="13.1149276" lon="77.5834537"/>
+  <node id="11651671190" lat="13.1150877" lon="77.5833953"/>
+  <node id="2836933297" lat="13.0283734" lon="77.6104327"/>
+  <node id="2836933300" lat="13.0285051" lon="77.6101479"/>
+  <node id="2836933301" lat="13.0285239" lon="77.6100051"/>
+  <node id="2836933306" lat="13.0288172" lon="77.6106471"/>
+  <node id="2836933309" lat="13.0290865" lon="77.6103197"/>
+  <node id="10089752409" lat="13.0285859" lon="77.6105253"/>
+  <node id="12827726048" lat="13.0285153" lon="77.6100705"/>
+  <node id="3529757269" lat="13.0299928" lon="77.6272145"/>
+  <node id="3529757292" lat="13.0302814" lon="77.6272912"/>
+  <node id="7256967082" lat="13.0301306" lon="77.6272511"/>
+  <node id="3529757218" lat="13.0297175" lon="77.6283064"/>
+  <node id="3529757278" lat="13.0300062" lon="77.6283831"/>
+  <node id="7256967083" lat="13.0299021" lon="77.6283554"/>
+  <node id="2836933372" lat="13.0478895" lon="77.6195116"/>
+  <node id="2836933373" lat="13.0479960" lon="77.6188400"/>
+  <node id="2836933375" lat="13.0482860" lon="77.6195779"/>
+  <node id="2836933378" lat="13.0483926" lon="77.6189062"/>
+  <node id="7385476312" lat="13.0481844" lon="77.6195574"/>
+  <node id="10047954706" lat="13.0524204" lon="77.6145110"/>
+  <node id="10047954707" lat="13.0523302" lon="77.6154390"/>
+  <node id="10047954709" lat="13.0533350" lon="77.6146062"/>
+  <node id="11696226791" lat="13.0530421" lon="77.6154757"/>
+  <node id="11696226792" lat="13.0530736" lon="77.6150702"/>
+  <node id="11696226793" lat="13.0532610" lon="77.6150771"/>
+  <node id="11878636976" lat="13.0697184" lon="77.6072773"/>
+  <node id="11878636977" lat="13.0692743" lon="77.6071934"/>
+  <node id="11878636978" lat="13.0692830" lon="77.6071449"/>
+  <node id="11878636979" lat="13.0697271" lon="77.6072288"/>
+  <node id="387617495" lat="13.0543455" lon="77.6239811"/>
+  <node id="4527984233" lat="13.0542432" lon="77.6238964"/>
+  <node id="4527984234" lat="13.0542423" lon="77.6239800"/>
+  <node id="4527984236" lat="13.0543464" lon="77.6238975"/>
+  <node id="6017656466" lat="13.0460775" lon="77.6461986"/>
+  <node id="10129868333" lat="13.0464315" lon="77.6465162"/>
+  <node id="10129868334" lat="13.0459299" lon="77.6465647"/>
+  <node id="10129868335" lat="13.0462864" lon="77.6468457"/>
+  <node id="5644388860" lat="13.0205389" lon="77.6493213"/>
+  <node id="5644388861" lat="13.0201683" lon="77.6491629"/>
+  <node id="5644388862" lat="13.0200882" lon="77.6487402"/>
+  <node id="5644388863" lat="13.0206835" lon="77.6489897"/>
+  <node id="11648302883" lat="13.0627122" lon="77.6620112"/>
+  <node id="11648302884" lat="13.0628572" lon="77.6623304"/>
+  <node id="11648302885" lat="13.0633383" lon="77.6621000"/>
+  <node id="11648302886" lat="13.0631933" lon="77.6617809"/>
+  <node id="13368993110" lat="13.0760035" lon="77.6242742"/>
+  <node id="13368993111" lat="13.0760609" lon="77.6245853"/>
+  <node id="13368993112" lat="13.0756037" lon="77.6247248"/>
+  <node id="13368993113" lat="13.0756403" lon="77.6245210"/>
+  <node id="13368993114" lat="13.0749715" lon="77.6243412"/>
+  <node id="13368993115" lat="13.0750263" lon="77.6239791"/>
+  <node id="7298992641" lat="13.0766472" lon="77.6350897"/>
+  <node id="7298992642" lat="13.0766927" lon="77.6346104"/>
+  <node id="7298992643" lat="13.0772852" lon="77.6346696"/>
+  <node id="7298992644" lat="13.0772398" lon="77.6351489"/>
+  <node id="11773469200" lat="13.1250397" lon="77.6154939"/>
+  <node id="11773469201" lat="13.1249986" lon="77.6156689"/>
+  <node id="11773469202" lat="13.1252263" lon="77.6157253"/>
+  <node id="11773469203" lat="13.1252675" lon="77.6155503"/>
+
+</osm>

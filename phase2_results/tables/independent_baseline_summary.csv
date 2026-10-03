@@ -1,0 +1,10 @@
+initial_failures,n_initial,failed_nodes,failed_edges,failed_substations,total_substations,stressed_nodes,stressed_edges,unserved_load_mva,cascade_rounds,converged,substation_failure_rate,scenario,layer
+['SUB_1'],1,1,0,1,44,0,0,0.0,1,True,0.022727272727272728,P_IND_1,Power
+"['SUB_1', 'SUB_2']",2,2,0,2,44,0,0,0.0,1,True,0.045454545454545456,P_IND_2,Power
+"['SUB_1', 'SUB_2', 'SUB_3', 'SUB_4']",4,4,123,4,44,0,0,0.0,15,False,0.09090909090909091,P_IND_3,Power
+['FAC_1'],1,,,,,,,,1,True,,W_IND_1,Water
+"['FAC_1', 'FAC_2']",2,,,,,,,,1,True,,W_IND_2,Water
+"['FAC_1', 'FAC_2', 'FAC_3']",3,,,,,,,,1,True,,W_IND_3,Water
+"[['CRN_1', 'CRN_2']]",1,,1,,,,2,,1,True,,R_IND_1,Road
+"[['CRN_1', 'CRN_2'], ['CRN_1', 'CRN_868']]",2,,346,,,,5,,10,True,,R_IND_2,Road
+"[['CRN_1', 'CRN_2'], ['CRN_1', 'CRN_868'], ['CRN_1', 'CRN_1636']]",3,,916,,,,42,,14,True,,R_IND_3,Road

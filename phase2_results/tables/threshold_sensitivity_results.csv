@@ -1,0 +1,7 @@
+tested_threshold,threshold_value,scenario,power_failed_nodes,water_failed_facilities,water_unmet_demand_mld,road_failed_edges,road_delay_factor
+power_failure_threshold,1.05,S1_Power_D1_Banaswadi,1,0,16814.00000000032,0,1.0
+power_failure_threshold,1.1,S1_Power_D1_Banaswadi,1,0,16814.00000000032,0,1.0
+power_failure_threshold,1.2,S1_Power_D1_Banaswadi,1,0,16814.00000000032,0,1.0
+road_failure_threshold,1.15,S4_Water_D3_SilkBoard,0,0,16814.00000000032,829,1.0473375607806026
+road_failure_threshold,1.25,S4_Water_D3_SilkBoard,0,0,16814.00000000032,1039,1.0483774903758194
+road_failure_threshold,1.4,S4_Water_D3_SilkBoard,0,0,16814.00000000032,1129,1.0565592364002603

@@ -2,7 +2,8 @@ scenario,M0,M1,M2,M3,M4,M5,M6,M7
 S1_Power_D1_Banaswadi,0,0,0,0,0,0,0,0
 S2_Power_D1_Padmanabha,0,0,0,0,0,0,0,0
 S3_Power_Uncoupled,0,0,0,0,0,0,0,0
-S4_Water_D3_SilkBoard,0,0,0,1039,1039,1039,0,1039
+S4_Water_D3_SilkBoard,0,0,0,1039,1039,1039,0,719
 S5_Water_Facility_Regional,0,0,0,0,0,0,0,0
 S6_Road_Bottleneck,1,1,1,1,1,1,1,1
-S7_Compound_PowerWater,0,0,0,1039,1039,1039,0,1039
+S7_Compound_PowerWater,0,0,0,1039,1039,1039,0,719
+S8_Nexus_SilkBoard,1,1,1,1153,1153,1153,1,856

@@ -49,7 +49,9 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from models.graph_builder import build_power_graph, build_water_graph, build_corridor_road_graph
 from models.dependency_mapper import (
     build_all_dependencies,
-    D2_ALPHA_PR_CENTRAL, D3_ALPHA_WR_CENTRAL
+    D2_ALPHA_PR_CENTRAL, D3_ALPHA_WR_CENTRAL,
+    D4_GAMMA_RP_CENTRAL, D5_GAMMA_RW_CENTRAL,
+    D6_BETA_WR_CENTRAL, D1_TRANSIENT_SURGE
 )
 from models.multi_layer_cascade import MultiLayerCascadeController
 
@@ -167,6 +169,11 @@ def run_hierarchy_experiments():
             "id": "S7_Compound_PowerWater",
             "desc": "Compound Event: Concurrent Substation SUB_25 + Water Pipe Burst",
             "power_fail": [sub_banaswadi], "water_fail": [pipe_silkboard], "road_fail": []
+        },
+        {
+            "id": "S8_Nexus_SilkBoard",
+            "desc": "Spatial Nexus: Silk Board substation (SUB_43) + adjacent pipe burst + road bottleneck (3-layer co-located shock)",
+            "power_fail": ["SUB_43"], "water_fail": [pipe_silkboard], "road_fail": [road_bottleneck]
         }
     ]
 
@@ -198,6 +205,10 @@ def run_hierarchy_experiments():
                 s_pr=S_PR_CENTRAL,
                 alpha_pr=ALPHA_PR_CENTRAL,
                 alpha_wr=ALPHA_WR_CENTRAL,
+                gamma_rp=D4_GAMMA_RP_CENTRAL,
+                gamma_rw=D5_GAMMA_RW_CENTRAL,
+                beta_wr=D6_BETA_WR_CENTRAL,
+                transient_surge=D1_TRANSIENT_SURGE,
                 power_failure_threshold=1.10,
                 water_failure_threshold=1.30,
                 road_failure_threshold=1.25,

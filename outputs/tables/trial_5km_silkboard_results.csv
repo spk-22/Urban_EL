@@ -1,0 +1,6 @@
+model,model_name,total_failures,power_failures,water_failures,road_failures,road_failures_in_5km,substations_failed_in_5km,road_delay_factor,unmet_water_demand_mld,dep_events,outer_iterations
+M0,M0: Independent Baseline,6,4,1,1,1,1,1.0002,16814.0,0,2
+M1,M1: Power->Water only,6,4,1,1,1,1,1.0002,16814.0,2,2
+M2,M2: Power->Road only,6,4,1,1,1,1,1.0002,16814.0,10,2
+M3,M3: Water->Road only,1158,4,1,1153,1153,1,1.0414,16814.0,8,3
+M7,M7: Full 3-Layer Triad,1608,751,1,856,856,9,1.0371,16814.0,102,10

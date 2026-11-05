@@ -45,29 +45,38 @@ def haversine_m(lat1, lon1, lat2, lon2):
 # Dependency: each water facility assigned to nearest substation within threshold.
 #   Status: ASSUMED spatial proxy — sensitivity tested at 250 m, 500 m, 1000 m.
 
-D1_SPATIAL_THRESHOLD_M = 500.0
-D1_PARAMETER_TYPE = "ASSUMED"
-D1_UNCERTAINTY = "Real electrical feeder routing unavailable in OSM. Threshold is a spatial proximity proxy."
+# Spatial threshold: 2500 m
+#   INFERRED: Urban medium-voltage distribution feeders (11kV/33kV) from bulk
+#   transmission substations serve an urban radius of 2000-3000 m in Indian megacities.
+#   2500 m captures primary pump station feeder catchment. Real cable routing MISSING.
+# Source type: substations (all types in data; voltage field OBSERVED)
+# Dependency: each water facility assigned to nearest substation within threshold.
+
+D1_SPATIAL_THRESHOLD_M = 2500.0
+D1_PARAMETER_TYPE = "INFERRED"
+D1_UNCERTAINTY = "Real electrical feeder routing unavailable in OSM. Threshold represents medium-voltage feeder catchment."
+
+# Hydraulic Transient Shock parameter:
+# Sudden pump trip creates backpressure surge (water hammer) on incident transmission pipes
+D1_TRANSIENT_SURGE = 0.35
 
 # =============================================================================
 # D2 PARAMETERS
 # =============================================================================
-# Spatial threshold: 300 m
-#   INFERRED: LT feeder cables from distribution substations to street-level
-#   signal cabinets are typically <500 m in Indian urban areas. 300 m used as
-#   conservative proxy. ASSUMED parameter.
+# Spatial threshold: 2500 m
+#   INFERRED: Traffic signal controllers and local intersection cabinets are fed
+#   by local distribution transformers tied to the district substation within 2500 m.
 # Signal node filter: traffic_signal OBSERVED attribute in road Excel data.
 # Capacity reduction alpha_pr:
 #   INFERRED from HCM principles: unsignalized intersections handle ~50-70% of
 #   signalized throughput. Engineering guidance suggests 20-40% reduction.
-#   Central estimate: alpha_pr = 0.30. Previously proposed 0.40 is tested as
-#   a sensitivity scenario. Range: 0.10-0.50.
+#   Central estimate: alpha_pr = 0.30. Range: 0.10-0.50.
 
-D2_SPATIAL_THRESHOLD_M = 300.0
+D2_SPATIAL_THRESHOLD_M = 2500.0
 D2_ALPHA_PR_CENTRAL = 0.30
 D2_ALPHA_PR_RANGE = [0.10, 0.20, 0.30, 0.40, 0.50]
 D2_PARAMETER_TYPE = "INFERRED"
-D2_UNCERTAINTY = "Signal-feeder routing unavailable. alpha_pr inferred from HCM principles; not a measured fact."
+D2_UNCERTAINTY = "Signal-feeder routing unavailable. Mapped to nearest serving district substation."
 
 # =============================================================================
 # D3 PARAMETERS
@@ -80,7 +89,6 @@ D2_UNCERTAINTY = "Signal-feeder routing unavailable. alpha_pr inferred from HCM 
 #   ~115 L/s, consistent with >= 200 mm diameter).
 # Road capacity retention alpha_wr:
 #   ASSUMED. Central estimate: 0.40 (60% reduction; one lane blocked).
-#   Previously proposed 0.20 (80% reduction) is high-severity scenario.
 #   Range: 0.20, 0.40, 0.60 (severe, moderate, mild flooding).
 
 D3_SPATIAL_BUFFER_M = 25.0
@@ -89,6 +97,22 @@ D3_ALPHA_WR_RANGE = [0.20, 0.40, 0.60]
 D3_MIN_CAPACITY_MLD = 10.0
 D3_PARAMETER_TYPE = "ASSUMED"
 D3_UNCERTAINTY = "Pipe diameters/pressures unavailable in OSM. Buffer and capacity factor are assumptions."
+
+# =============================================================================
+# CYCLIC FEEDBACK LOOP PARAMETERS (M7 FULL COUPLING)
+# =============================================================================
+# D4: Road -> Power (Repair crews, fuel tankers, and maintenance personnel access choke)
+#   When road network suffers severe congestion delay (D_road > 1.0),
+#   emergency technicians cannot service stressed substations, derating headroom.
+D4_GAMMA_RP_CENTRAL = 0.35
+
+# D5: Road -> Water (Emergency valve isolation and chemical logistics choke)
+#   Severe traffic bottlenecks prevent water utility crews from isolating burst pipes.
+D5_GAMMA_RW_CENTRAL = 0.30
+
+# D6: Water -> Road (Community water scarcity emergency procurement travel)
+#   Unmet water demand induces frantic community travel and water tanker traffic.
+D6_BETA_WR_CENTRAL = 0.25
 
 
 def map_D1_power_to_water(G_power, G_water, threshold_m=D1_SPATIAL_THRESHOLD_M):

@@ -92,7 +92,7 @@ def generate_static_spatial_overview(G_road, G_power, G_water):
 
 def generate_interactive_power_map(G_power):
     print("Generating Interactive Folium Map for Power...")
-    m = folium.Map(location=[12.9716, 77.5946], zoom_start=11, tiles="CartoDB positron")
+    m = folium.Map(location=[12.9716, 77.5946], zoom_start=11, tiles="OpenStreetMap")
     
     # Transmission lines
     for u, v, d in G_power.edges(data=True):
@@ -136,7 +136,7 @@ def generate_interactive_road_cascade_map(G_road):
     def canon(u, v):
         return (u, v) if str(u) <= str(v) else (v, u)
 
-    m = folium.Map(location=[12.9172, 77.6228], zoom_start=14, tiles="CartoDB positron")
+    m = folium.Map(location=[12.9172, 77.6228], zoom_start=14, tiles="OpenStreetMap")
 
     for u, v, d in G_road.edges(data=True):
         lat1, lon1 = G_road.nodes[u]["latitude"], G_road.nodes[u]["longitude"]
